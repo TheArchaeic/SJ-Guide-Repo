@@ -451,11 +451,11 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 				- Colo Extreme gives 1 card on Round 1 and Round 2. Round 3 to 6 gives 2 cards per round. For a full Round 6 run, this gives 10 cards per successful Round 6 or 20 cards for a "Perfect" day.
 				- Due to being able to collect cards in Colo Hero, it is possible to get Fanglongmon Shin before getting Alter-B
 	- For AA -
-		- Recommended order: BloomLordmon -> DarknessBagramon
-			- At the time of this guide's writing, AA does not have a Data SSS+ available.
+		- Recommended order: BloomLordmon -> DarknessBagramon/Shoutmon X7
 		- BloomLordmon (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:BloomLordmon)) requires running the solo dungeon, [Shopping Mall](https://digitalmastersworld.wiki.gg/wiki/Shopping_Mall), a minimum of 15 successful times as well as leveling and sacrificing 40 Palmon (Original). Make note, BloomLordmon can drop up to 3 eggs per successful run.
 			- With semi-perfect Fang gear and the same deck from the end of early game, you should easily be able to clear without issue.
-		- After obtaining BloomLordmon, run the 4-player dungeon [Bagramon's Domain](https://digitalmastersworld.wiki.gg/wiki/Bagramon%27s_Domain) for DarknessBagramon (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:DarknessBagramon)) as your Virus SSS+. Similar to BloomLordmon, you will need at least 15 successful runs. **You will need a tank.**
+		- After obtaining BloomLordmon, run the 4-player dungeon [Bagramon's Domain](https://digitalmastersworld.wiki.gg/wiki/Bagramon%27s_Domain) for DarknessBagramon (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:DarknessBagramon)) as your Virus SSS+ and Shoutmon X7 (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Shoutmon_X7)) as your Data SSS+. Similar to BloomLordmon, you will need at least 15 successful runs. **You will need a tank.**
+  			- For X7, you will need at least 10 copies of each component digimon for X7 (Shoutmon, Greymon (C) and Mailbirdramon) as well as all the digimon required for X5 for the X7 quest itself.
 - Go for a proper Digivice:
 	- For SK - 
 		- As a SK DPS, you gain the most damage from the Royal Digivice, True Digivice, and True Digivice (Advanced).
