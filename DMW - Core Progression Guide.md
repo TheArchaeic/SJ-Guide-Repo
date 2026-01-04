@@ -85,7 +85,7 @@ Inside your Journey Package should be:
 	- Most Digimon, when hatched, only have their Champion-level evolutions. Sometimes, they can have higher, depending on the suffix of the egg. Some Digimon have no evolutions unlocked at first. 
 	- For the majority of Digimon, Evoluters are used to unlock most of their evolutions. Some evolutions, especially those at higher ranks, are locked behind unique items.
 - A Gift Package corresponding to the Digimon's class
-	- This package contains a lot of items that'll help you get through the slog of early game, such as 7 day Tamer Skills, Transcendence Fruits, a Mercenary Slot Expansion, a Tamer Exchange item for one of your class's useful Tamers, a starting Digivce for your class and more. While you should still open the package to make use of some of the items, such as the Digivce and the Expansion items, a majority of these items are effectively *useless* to you until you can run dungeons, as that is where you will be able to make the most use out of them.
+	- This package contains a lot of items that'll help you get through the slog of early game, such as 7 day Tamer Skills, Transcendence Fruits, a Mercenary Slot Expansion, Mega Reinforced DigiClones, a Tamer Exchange item for one of your class's useful Tamers, a starting Digivce for your class and more. While you should still open the package to make use of some of the items, such as the Digivce and the Expansion items, a majority of these items are effectively *useless* to you until you can run dungeons, as that is where you will be able to make the most use out of them.
 - 10 Jumping Crystal [Tamer]
 	- Similar to the Digimon Jumping Crystals, they give EXP to your tamer.
 - 12 Jumping Crystal [Digimon]
@@ -114,7 +114,7 @@ Instead of continuing the questline, first you should head to DATS Center. You c
 - Head to the DigiEgg Incubator and hatch the Lv.5 DigiEgg. Spend the Evoluters and Evolution items to unlock the SSS you chose.
 - Spend the remaining Jumping Crystals on your new Digimon which should push them to Level 70+
 	- If you chose LordKnightmon X, *do not* use the 30D XAI just yet. As tempting as it may be, you will want to save access to the XAI for when you can make optimal use of it. Later on, you will be able to get a worse, but permanent, version of the XAI.
-- Utilize the Clones from the Gift Package to get your new Digimon's stats up. Thankfully, these clones also do not cost money.
+- Utilize the Clones from the Gift Package inside the Journey Package (Not Lala's Gift Box) to get your new Digimon's stats up. Thankfully, these clones also do not cost money.
 	- Like with your starter, you should have 3 of each Clone left. Once you have transcended your journey digimon, use them on the HP stat to fully empower them.
 - Unlock the DMW Digivice you were given and equip it.
 	- For the time being, it's not at full power yet. Later on, we will get into Accessory Enhancement proper and get it to full power.
