@@ -506,7 +506,13 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 				- You can trade 100 Final Essence for 1 Final Battle pass. Final Essence drops from any mob on the Collapsed Four Holy Beast Area, Zhuqiaomon's Resting Area, and Four Holy Beast Area (D-Reaper) maps in the Digital Area.
 - Run [Digimon Arena Extreme Mode](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena#Round_Rewards_Colosseum_Hero_Mode/Extreme_Mode) (Colo EX)
 	- Colo EX is the hardest difficulty of Colo currently out and gives the most points as well. Talk to Examon X to start the EX difficulty.
-	- EX is only 6 rounds, which are Rounds 10 to 15 of Colo Hero but more difficult. A tank is **absolutely a requirement**. The field effects of Examon X and Ordinemon are stronger than in Hero.
+	- EX is only 6 rounds, which are Rounds 10 to 15 of Colo Hero but more difficult. A tank is **absolutely a requirement**. Unlike Hero, each boss has a field effect active during their battle, with the field effects of Examon X and Ordinemon being stronger than in Hero.
+ 		- Millenniummon Field Effect: Dark Dimension - 5% Increase of Damage Taken
+ 		- Susanoomon Field Effect: Gods Presence - 10% Speed Decrease
+ 		- Rafflesimon Field Effect: Fascination - Permanent DoT (200 HP per second)
+ 		- Alphamon Ouryuken X Field Effect: Alpha inForce - 10% Defense decrease
+ 		- Examon X Field Effect: Dragonic Force - Permanent DoT (400 HP per second)
+ 		- Ordinemon Field Effect: Apocalypse - 50% Block decrease
 	- There are no mechanic differences, excluding Milleniummon who gains a new 50% mechanic.
 		- At 50%, Millenniummon spawns two Ebemon mobs. Defeat the Ebemon quickly or your team will be instantly wiped.
 			- Sometimes the Ebemon fail to spawn. If that occurs, continue attacking Millenniummon.
