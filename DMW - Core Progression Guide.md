@@ -1,4 +1,4 @@
-Are you a new player that absolutely hates the idea of having to farm for money just to actually do content? Do you want to play the game to get stronger, even though it might take longer and be less optimal than other ways of playing? Well, this guide is for you! *Brought to you by the same guy who did [this guide](https://discord.com/channels/1371914476424527963/1403899517320822936/1403899517320822936)* 
+Are you a new player that absolutely hates the idea of having to farm for money just to actually do content? Do you want to play the game to get stronger, even though it might take longer and be less optimal than other ways of playing? Well, this guide is for you! *Brought to you by the same guy who did the Deck Progression Guide* 
 
 Important Notes Before Reading:
 - DMW as a whole is **NOT** a Solo venture. Yes, sometimes our community sucks and gatekeeping runs rampant, however you will not be able to progress to endgame completely solo unless you choose to buy your way there. Find a party to do dungeons with.
@@ -13,12 +13,14 @@ Important Notes Before Reading:
 You've just loaded up DMW, or Digital Masters World, having created an account with good ol' @Donny however, you encounter a problem: You don't know what you're doing! For some of you, this is an entirely new branch of DMO that seems entirely unfamiliar. For others, its your first digimon MMO experience and you're utterly lost.
 
 As partially mentioned above, DMW introduces a rudimentary **Class System**. All Digimon ranked SS+ or above are given one of 4 classes: Skill DPS (SK), Auto Attack DPS (AA), Tank (TA) and Support (SUP). 
-- Skill DPS mainly use Skills to dish out damage
-- Auto Attack DPS use mainly auto attacks to dish out damage
-- Tanks have high HP pools and high Defense to take the heavy hits mid to endgame bosses dish out. Conversely, they dish out much less damage compared to DPS classes.
-	- Added bonus, they do *not* gain Basic Attribute from gear. Instead, for every 1K Defense, they gain 1%. Similarly, for every 10k HP, they gain 1%.
-- Support Digimon fall into one of the two DPS classes. However, they have an effect on their F3 that gives a damage boost to the DPS class they fall into. Conversely, they deal less damage overall compared to an equally ranked DPS.
+- <img width="49" height="30" alt="SK_Icon" src="https://github.com/user-attachments/assets/852d4871-6c4f-4e8e-9332-8374a4f2fac6" align="center"/> - Skill DPS mainly use Skills to dish out damage
+- <img width="49" height="30" alt="AAA" src="https://github.com/user-attachments/assets/5a4975dd-2c82-493c-844c-8b139328539c" align="center" /> - Auto Attack DPS use mainly auto attacks to dish out damage
+- <img width="49" height="30" alt="Tank_Icon" src="https://github.com/user-attachments/assets/6d41ce19-dbca-4190-b797-83518ca244a2" align="center"/> - Tanks have high HP pools and high Defense to take the heavy hits mid to endgame bosses dish out. Conversely, they dish out much less damage compared to DPS classes.
+	- Unlike the other classes, they do not gain Basic Attribute from gear. Instead, for every 1K Defense, they gain 1%. Similarly, for every 10k HP, they gain 1%.
+- <img width="49" height="30" alt="SupporterA" src="https://github.com/user-attachments/assets/c24fc410-bca0-46fa-8a47-cb70f15a60b2" align="center"/> - Support Digimon fall into one of the two DPS classes. However, they have an effect on their F3 that gives a damage boost to the DPS class they fall into. Conversely, they deal less damage overall compared to an equally ranked DPS.
 	- As an exception, UlforceVeedramon Future Mode has a defensive F3 and F4. He also can be used as a SK DPS or an AA DPS, depending on the user's gear.
+- <img width="49" height="30" alt="Hybrid_Icon" src="https://github.com/user-attachments/assets/d85b4f40-d0eb-41e4-a30d-c390f91425c3" align="center"/> - Hybrid Digimon are digimon that can be played as either an AA DPS or a SK DPS, not both at once.
+	- At the time of this writing, HB is reserved for our U Digimon: Omegamon Merciful Mode and ChaosDukemon/Dukemon Crimson Mode (Awaken).
 
 Now that you (hopefully) understand the different classes, we can go over the pros and cons of the two DPS classes:
 - SK DPS
@@ -28,13 +30,10 @@ Now that you (hopefully) understand the different classes, we can go over the pr
 	- Pros: Consistent Damage across the board, Access to the 'Guardian' Memory Skill (aka free damage reduction of up to 20%), Overall easier Deck Progression, Very little position lock so easy maneuverability for boss mechanics
 	- Cons: Cannot skip without high damage, More "Focus" stats on gear (Basic Attribute, Critical Damage, Hit Rate, Attack, Critical [If severely lacking]) means a sacrifice on HP otherwise lowering total damage, high damage parties will sometimes refuse for early-midgame content (Can be circumvented by forming your own party)
 
-And with that comes the final question: You want to play as X class, so what tamer and partner digimon should you pick?
-
-If you decide to play as a SK DPS, unfortunately your early game tamer doesn't matter. However, I recommend Yoshino due to her tamer skill (Protection) being a 'Get-Out-Of-Big-Damage-Free' Card and may prove useful. As a starter, you should choose Falcomon. 
-
-If you decide to run as an AA DPS, you should run Keenan Crier as your first Tamer. His Tamer Skill, "Shock", gives a Critical Damage increase that'll prove strong as an early game AA. For your digimon partner, you'll want to pick Agumon.
-
-If you're curious about the reasoning, you do not need a Data SSS for a lot of the early game content or even a majority of our currently released late game content. However, a Vaccine SSS is indispensable for early game.
+And with that comes the final question: You want to play as X class, so what tamer and partner digimon should you pick?  
+- If you decide to play as a SK DPS, unfortunately your early game tamer doesn't matter. However, I recommend Yoshino due to her tamer skill (Protection) being a 'Get-Out-Of-Big-Damage-Free' Card and may prove useful. As a starter, you should choose Falcomon. 
+- If you decide to run as an AA DPS, you should run Keenan Crier as your first Tamer. His Tamer Skill, "Shock", gives a Critical Damage increase that'll prove strong as an early game AA. For your digimon partner, you'll want to pick Agumon.
+- If you're curious about the reasoning, you do not need a Data SSS for a lot of the early game content or even a majority of our currently released late game content. However, a Vaccine SSS is indispensable for early game.
 
 Once you've selected your tamer and partner, you're officially ready to start your journey.
 # Pre-Early Game
@@ -620,3 +619,71 @@ You have now hit the Endgame. At the time of this guide's writing, DMW's endgame
 - [Back of the Empire](https://digitalmastersworld.wiki.gg/wiki/Back_of_the_Empire) (Mugen DG)
 	- The third of the 5 Spiral Mountain dungeons.
 	- You can craft passes for Mugen DG by using 200 Metal Essence at the Andromon NPC at the Underground City. Metal Essence is dropped by any mob on the Metal Empire and Underground City maps of Spiral Mountain.
+
+Deck System Guideline
+
+<details>
+	
+<summary>SK Deck Progression</summary>
+
+1. The Chosen Kin
+2. Ancient Connections
+	- Compared to Catalyst Kin and Throne of Ruin, Ancient Connections is much easier to obtain as it's all evolutions that only require Evoluters to unlock and on farmable eggs. The hardest digi to obtain, Gammamon, is obtainable via the Novice Exchange, thus making the deck very simple.
+3. **\<Early Game Requirement>** Omega
+	- Omega is an extremely easy deck to obtain, requiring only one cash shop exclusive digimon, Omegamon Alter-S. However, due to Berserker Arena, the Beta item necessary to unlock the digi on Gabumon is very cheap and the eggs themselves are equally cheap to buy from the player market.
+4. **\<Mid Game Requirement>** The Forsaken Strain
+5. Axiom Trinity
+6. Ouroboros
+7. **\<End Game Requirement>** Celestfracture
+8. Latent Power
+9. Royal Knights X/Demon Lords X
+10. Legendary Core
+	- It is technically possible to skip directly from Ouroboros/Celestfracture to Legendary Core. The hardest dungeon amongst the SSS+ requirements is AoA's Royal Base Hard (Lucemon X's IMD 3.0 isn't hard, it's long.) As none of the content requirements on Legendary Core require RKX, it can be a more wallet-friendly option for players.
+	
+</details>
+
+<details>
+	
+<summary>AA Deck Progression</summary>
+
+1. **\<Early Game Requirement>** Main Characters of the Adventure
+2. So cute
+	- Despite being a weaker deck, this deck should only be aimed for if it is possible for you to get a Kudamon egg. Due to Kudamon being a cash shop-exclusive digiegg (Outside of the Shadow Labyrinth craft), this deck is not that accessible.
+3. Four Holy Beasts
+4. Fallen and Chosen Megas
+	- While the Critical Damage increase is less than Four Holy Beasts, the Attack Speed increase makes up for it. It's only listed later due to the deck being (arguably) harder to obtain. (4 Farmable eggs vs 6 bm items, with one being cash shop-exclusive)
+5. **\<Mid Game Requirement>** Our Final Evolution
+	It is possible to skip right to Vaccine Fighters after obtaining Our Final Evolution. With the right level of gear, you can take your Data AA SSS to the Shopping Mall DG and beat it. You will, however, need to play near-perfect.
+6. The Forgotten Crown
+7. Dimensional Pantheon
+8. Vaccine Fighters
+9. Judicium Noctis
+10. **\<End Game Requirement>** Praelium Divinus
+11. Corrupted Power/Knights of the Crimson Path
+	- While the two decks are the same, Knights of the Crimson Path is a deck that only contains AA Digimon and has no "wasted" digimon.
+12. Power of Darkness/Strong Bonds/Order of the Crimson Nexus
+	- The three decks are identical. Whichever is easier to obtain, aim for.
+	- Take note, Order of the Crimson Nexus is a deck that only contains AA Digimon, however does require 3 Cash Shop-exclusive SSS+ and all 3 AA F2P SSS+. On the other hand, both Power of Darkness and Strong Bonds only require 2 Cash Shop SSS+ and one F2P SSS+ (As well as, Strong Bond's SSS+ requirements are all AA Digimon)
+13. Order of the Eclipsed Genesis
+	- It is technically possible to skip from Vaccine Fighters to Order of the Eclipsed Genesis. Vaccine Fighters is a solid enough deck that, while not directly comparable to RBH's earliest balance (Mega-Omega), is still close enough due to the lack of RNG aspect. As a result, you could clear RBH successfully and obtain both Dexmon Shin and Itto Mode (as they require different items). The Solo Dungeon for the Bond alpha parts isn't difficult, especially when using BloomLordmon.
+	
+</details>
+
+<details>
+	
+<summary>Tank Deck Progression</summary>
+
+1. Rookie Ramparts
+2. Abyssal Aegis/Royal Knights
+	- Abyssal Aegis has 5% Defense while RK instead has 10% Attack Speed (instead of 8), but lacks the 5% Defense. Abyssal is technically the better deck, but you should aim for what is easier.
+3. The Iron Pact
+4. **\<Mid Game Requirement>** Seafood Stew/Iron Thronefall
+	Seafood Stew lacks any defense or Attack Speed increases, but it's also an extremely easy deck to get and gives a 10% HP increase. Thus, you can technically skip the first few if you have Seafood Stew.
+5. Brick Wall/Aegis of the Divide
+	- While Aegis Nova does exist as an option, I'm personally excluding it due to less stats than Brick Wall and not as easily unlocked compared to Brick Wall. Brick Wall is significantly more accessible (barring Magnamon X due to the DigiEgg of Miracles) compared to Aegis of the Divide which requires 2 SSS+ (200T craft costs). The only tradeoff between the two is 5% Attack Speed (which, as a tank, is generally negligible)
+6. **\<End Game Requirement>** Defensive Order/Aegis Vortex
+	- Identical stats with Aegis Vortex having a 5% Chance for a Skill Reset. Whatever is easier for you is the one you should aim for.
+7. The Sovereign Bulwark Series/Dragon Scale
+	- The Sovereign Bulwark series of decks is the overall recommendation as their final deck, Eternal Dominion, is the best Tank deck in the game. However, the series of decks doesn't actually surpass Dragon Scale in defensive ability until Iron Requiem (Abyss is an ultimately better alternative to Dragon Scale, but is defensively equal). Dragon Scale also has the notable downside of being locked behind one of the more expensive SSS+, while TSB series only has F2P SSS+ in it's requirements until Royal Crown.
+
+</details>
