@@ -751,7 +751,7 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
     	- At 50%, Millenniummon spawns two Ebemon mobs. Defeat the Ebemon quickly or your team will be instantly wiped.
         	- Sometimes the Ebemon fail to spawn. If that occurs, continue attacking Millenniummon.
 
-- [Royal Base [[Hard](https://digitalmastersworld.wiki.gg/wiki/Royal_Base_Hard)] (RBH)
+- Royal Base [[Hard]](https://digitalmastersworld.wiki.gg/wiki/Royal_Base_Hard) (RBH)
   	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
     - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
 	- You can craft RBH passes by using 100 Warp Energy [Hard] at the Magnamon X NPC at Versandi Terminal. Warp Energy [Hard] can be farmed at any mob on the Versandi Terminal map.
