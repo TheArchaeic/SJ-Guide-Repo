@@ -375,7 +375,7 @@ Most bosses in the game follow a similar mechanical design, This is *not* 100% a
 		- If you get a debuff, you will typically have to kill the right enemy to dispel the debuff, then kill the boss before the party is wiped.
 		- If the boss summons several minions, you must kill the minions and use the item they give you on the boss to kill it.
 
-### Content Progression
+## Content Progression
 
 Now that you're ready to progress further, open your Underworld Gear. You've now got 30 Days to acquire more permanent and worthwhile gear. Here are the best ways to make use of it:
 - [DPS Classes] (Optional but Recommended) Farm the Gizumon Lab Dungeon at Digimon Maze Entrance to enhance your second starter and obtain a usable Data SSS.
