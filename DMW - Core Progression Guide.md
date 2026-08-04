@@ -815,9 +815,12 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 </details>
 
 Before you officially move onto endgame content, you should ensure that you are fully prepared:
-- Accessory-wise, you should have perfect Fanglongmon Ancient Gear Lv.10/Fanglongmon Ultimate Ancient Gear Lv.10 with a perfect Royal : X-Knight Bracelet (For SK, the Max DS option is negligible). You should also have a fully maxed out pair of Goggles (AT/AT for AA, SK/SK for SK).
+- Accessory-wise, you should have perfect Fanglongmon Ancient Gear Lv.10/Fanglongmon Ultimate Ancient Gear Lv.10 with a perfect Royal : X-Knight Bracelet (For SK) or Royal/Ultimate : Yggdrasil Bracelet (For AA/TA). You should also have a fully maxed out pair of Goggles (AT/AT for AA, SK/SK for SK, DE/DE for TA).
 - You should have acquired proper clothing as well, see above.
-- As an AA DPS, you should be using 'Judicium Noctis'. As a SK DPS, you should be using 'Celestfracture.'
+- Decks:
+	- AA: Judicium Noctis
+ 	- SK: Celestfracture
+  	- Tank: Defensive Order/Aegis Vortex
 
 
 # End Game
@@ -837,15 +840,15 @@ Before you officially move onto endgame content, you should ensure that you are 
     - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
 	- The third of the 7 Spiral Mountain dungeons.
 	- You can craft passes for Mugen DG by using 200 Metal Essence at the Andromon NPC at the Underground City. Metal Essence is dropped by any mob on the Metal Empire and Underground City maps of Spiral Mountain.
- - [Odaiba Park](https://digitalmastersworld.wiki.gg/wiki/Odaiba_Park)
+- [Stage of Clown](https://digitalmastersworld.wiki.gg/wiki/Stage_of_Clown) (Pied DG)
   	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Royal : Yggdrasil Bracelet + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
-    - Odaiba Park is the unlock dungeon for Omegamon Merciful Mode.
-- [Clown Stage](https://digitalmastersworld.wiki.gg/wiki/Clown_Stage) (Pied DG)
-  	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
     - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
     - The fourth of the 7 Spiral Mountain dungeons.
     - You can craft passes for Pied DG by using 200 Nightmare Essence at the ... NPC at the Top of a Nightmare map. Nightmare Essence is dropped by any mob on the Top of a Nightmare map of Spiral Mountain.
+ - [Odaiba Park](https://digitalmastersworld.wiki.gg/wiki/Odaiba_Park)
+  	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
+    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+    - Odaiba Park is the unlock dungeon for Omegamon Merciful Mode.
 - [Four Pillars of Ruin](https://digitalmastersworld.wiki.gg/Four_Pillars_of_Ruin)
   	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
     - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
