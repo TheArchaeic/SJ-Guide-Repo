@@ -256,7 +256,8 @@ Before we establish what your progression should look like, there's are four unm
 		- Necklace - Basic Attribute, Basic Attribute, Skill, Max HP
 		- Bracelet - Skill, Skill, Max HP, Max HP, Max DS 
 		- Ring - Basic Attribute, Basic Attribute, Skill, Skill
-    
+
+		*Note: All Skill rolls on gear can be swapped for Max HP, if possible. Skill Flat is a weak stat, especially on non-Spiral Gear.
 		</details>
 		
 		<details>
