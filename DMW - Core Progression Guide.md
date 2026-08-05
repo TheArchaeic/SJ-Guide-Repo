@@ -54,7 +54,7 @@ Now that you've finished the City of Beginnings questline and are back in DMW Vi
 	- This package **does not** have a Starter Egg inside. If you choose the wrong package, you will have a harder time following the guide.
 - Trade in your Journey Exchange Ticket for the respective digimon, based on your class. 
 	- SK DPS - You'll want to trade for the Craniamon X Package. Craniamon X is a solid SSS VA SK digimon with an AoE on its F3, making it useful for certain strats and mechanics. You'll also be able to get your hands on a VI SK SSS digimon that is also required for deck progression, so don't worry about completing your "trifecta" yet.
-	- AA DPS - You'll want to trade for the LordKnightmon X Package. LordKnightmon X is good SSS Vi AA digimon with an AoE F3, giving it similar benefits as Craniamon X. As far as getting your hands on a Vaccine SSS Digimon, don't worry. You'll have the chance to acquire not just one, but two (Both of which are required for Deck progression)
+	- AA DPS - You'll want to trade for the LordKnightmon X Package. LordKnightmon X is good SSS Vi AA digimon with an AoE F3, giving it similar benefits as Craniamon X does for SK. As far as getting your hands on a Vaccine SSS Digimon, don't worry. You'll have the chance to acquire not just one, but two (Both of which are required for Deck progression)
  	- Tank - Trade for the IcyMagnamon X Package. Icy is the hardest Tank to acquire, locked behind the RNG Worn Digi-Egg of Miracles unlock system or the rare Digi-Egg of Miracles (Not worn!). On top of that, the SSS item itself doesn't come back in Events very often.
   		- Once you've traded for IcyMagnamon X, feel free to entirely **disregard your actual starter and treat Icy as your "starter". Since none of the starters are tanks, you gain very little trying to invest in them. However, some resources within the Starter Package can be used for Icy or other Tanks you need to build, such as the Jumping Crystals and Raremon Eggs. More on this later.**
 - Open the 3 Packages you have obtained: Your Starter Package, the Journey Exchange Package and the Lala's Gift Package. **I highly recommend that you do not start opening the packages within the packages without reading ahead first.**
@@ -123,9 +123,8 @@ Instead of continuing the questline, first you should head to DATS Center. You c
 	- For the time being, it's not at full power yet. Later on, we will get into Accessory Enhancement proper and get it to full power.
 - If you haven't already, open up the Dungeon Ticket Box received from the tutorial. For each of these tickets, right-click to "use" them. This will move them to the Ticket Inventory. Access it by clicking the third button from the left in the bottom right corner (If you hover over it, it should say "DMW").
 	- The vast majority of Dungeon Tickets can go into this inventory. Also, there is a function to claim all unlocked ticket quests across the entire game, without having to individually claim the quests from each NPC. Simply open the Ticket Inventory and click the "Claim Daily Tickets" button.
-- Scan the Random BM Package and hatch the DigiEgg you were given.
-	- If you're lucky, the BM package you receive will help you achieve one of the various decks for your class. If you aren't aware of what decks are, keep reading on to find out.
-	- Do not worry about leveling this digimon at the moment. Focus on your starter digimon and your journey digimon.
+- Scan the Random BM Package and hold onto the items until further notice.
+	- Depending on the digimon you received, this can be a great help or something that is useless. However, it is unimportant to your progression at the moment.
 
 ## Pre-Early Game: Questing
 
@@ -158,7 +157,7 @@ Several things to make note of as you're questing:
 	- For TA, you should focus on HP, Defense (DE), Block Rate (BL) and Evasion (EV) seals.
 	- While you can certainly go for seals for the other stats, you shouldn't feel obligated to do so until you are far enough.
 - A big part of your damage, besides your gear, comes from your active deck.
-	- (For those who don't know what decks are) To oversimplify, Decks are a "reward" given by collecting all of the digimon within certain groups in the Encyclopedia. These Decks give a variety of stats with a large portion of Decks specialized for one of the three main classes.
+	- For those who've been seeing the word 'Deck' and pretended to know: Decks are a "reward" given by collecting all of the digimon within certain groups in the Encyclopedia. These Decks give a variety of stats with most Decks specialized for one of the three main classes. You can access them using the 'N' key or by opening the Encyclopedia and clicking the card icon in the bottom left.
 	- Here's a provided [guideline](#deck-system-guideline) for deck progression based on ease and the benefits it provides to your class
 		- Before you begin running content, you should at least have Omega (as SK) or Main Characters of the adventure (for AA) unlocked and equipped. For Tanks, you don't necessarily have to focus on your deck just yet. Due to Tank scaling, most tanks with a modest amount of investment in seals, Xunawumon gear, and the Brick Wall deck (potentially a worse deck) are immediately able to do up to Berserk Arena.
 	- As you quest, you should come across many DigiEggs, some of which are needed for your class's decks. Don't be afraid to farm some eggs and their hatch data.
