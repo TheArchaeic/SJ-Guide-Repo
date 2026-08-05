@@ -17,7 +17,6 @@ As partially mentioned above, DMW introduces a rudimentary **Class System**. All
 - <img width="49" height="30" alt="SK_Icon" src="https://github.com/user-attachments/assets/852d4871-6c4f-4e8e-9332-8374a4f2fac6" align="center"/> - Skill DPS mainly use Skills to dish out damage
 - <img width="49" height="30" alt="AAA" src="https://github.com/user-attachments/assets/5a4975dd-2c82-493c-844c-8b139328539c" align="center" /> - Auto Attack DPS use mainly auto attacks to dish out damage
 - <img width="49" height="30" alt="Tank_Icon" src="https://github.com/user-attachments/assets/6d41ce19-dbca-4190-b797-83518ca244a2" align="center"/> - Tanks have high HP pools and high Defense to take the heavy hits mid to endgame bosses dish out. Conversely, they dish out much less damage compared to DPS classes.
-	- Unlike the other classes, they do not gain Basic Attribute from gear. Instead, for every 1K Defense, they gain 1%. Similarly, for every 10k HP, they gain 1%.
 - <img width="49" height="30" alt="SupporterA" src="https://github.com/user-attachments/assets/c24fc410-bca0-46fa-8a47-cb70f15a60b2" align="center"/> - Support Digimon fall into one of the two DPS classes. However, they have an effect on their F3 that gives a damage boost to the DPS class they fall into. Conversely, they deal less damage overall compared to an equally ranked DPS.
 	- As an exception, UlforceVeedramon Future Mode has a defensive F3 and F4. He also can be used as a SK DPS or an AA DPS, depending on the user's gear.
 - <img width="49" height="30" alt="Hybrid_Icon" src="https://github.com/user-attachments/assets/d85b4f40-d0eb-41e4-a30d-c390f91425c3" align="center"/> - Hybrid Digimon are digimon that can be played as either an AA DPS or a SK DPS, not both at once.
@@ -136,9 +135,8 @@ Now that you've completed the above, feel free to return to DMW Village via the 
 	- Viruses (Vi) infect and corrupt Data (DA); Vi beats DA
 	- Data (DA) is unaffected by a Vaccine (VA); DA beats VA
 	- Outside of the Attribute trifecta is Unknown (Un) and No Attribute (No). Unknown beats everything while No Attribute is weak to everything
-- Having Attribute Advantage increases your damage by 50%, enemy auto attacks deal 20% less damage, and you gain damage from the 'Basic Attribute' stat on gear. Without Advantage, your damage is in neutral and you do not gain the damage boost from the "Basic Attribute" stat.
-	- As mentioned earlier, Tanks are an exception to this rule. Therefore, Basic Attribute on Tank gear is useless.
-- Tank Digimon receive more damage from skills and auto attacks when disadvantaged or neutral.
+- Having Attribute Advantage increases your damage by 50%, enemy auto attacks deal 20% less damage, and you gain damage from the 'Basic Attribute' stat on gear. Without Advantage, your damage is in neutral and you do not gain the damage boost from the "Basic Attribute" stat. Uniquely, Tank Digimon receive more damage from enemy skills and auto attacks when disadvantaged or neutral.
+	- Unlike the other classes, Tanks do not gain Basic Attribute from gear. Instead, for every 1K Defense, they gain 1%. Similarly, for every 10k HP, they gain 1%.
 - Elemental Advantage, while a slight damage increase, isn't so significant that it should be focused on.
 - You can also increase the experience of both the Attribute and Element (The empty bar underneath the Attribute and Element in the Digimon stat window) for that particular evolution of your digimon via a task based on the Attribute:
 	- No: It cannot be raised.
@@ -153,14 +151,15 @@ Now that you've done all that, you're finally prepared to continue into the next
 
 Several things to make note of as you're questing:
 - Do not worry about balancing the experience between your starter and your journey digimon, focus on your starter first until they hit max level (120). Then swap and do the same with your journey digimon.
-- As you are questing, don't forget to farm digimon seals. (What are seals? You should [read this](https://digitalmastersworld.wiki.gg/wiki/Seal_Master))
+- As you are questing, don't forget to farm digimon seals.
 	- In general, you should focus on collecting at least 500 seals of any digimon enemies that you come across. Do not feel pressured to farm field boss or dungeon boss seals yet. You will be able to farm those more efficiently later on.
 	- For SK, you should focus on Attack (AT), HP, DS and SK seals.
 	- For AA, you should focus on Attack (AT), Critical Chance (CT), HP, and Hit Rate (HT)
 	- For TA, you should focus on HP, Defense (DE), Block Rate (BL) and Evasion (EV) seals.
 	- While you can certainly go for seals for the other stats, you shouldn't feel obligated to do so until you are far enough.
-- A big part of your damage, besides your gear, comes from your active deck. (What are decks? [Here's a wiki page](https://digitalmastersworld.wiki.gg/wiki/Deck_System))
-	- Here's a provided [guideline](https://github.com/TheArchaeic/SJ-Guide-Repo/main/DMW%20-%20Core%20Progression%20Guide.md#deck-system-guideline) for deck progression based on ease and the benefits it provides to your class
+- A big part of your damage, besides your gear, comes from your active deck.
+	- (For those who don't know what decks are) To oversimplify, Decks are a "reward" given by collecting all of the digimon within certain groups in the Encyclopedia. These Decks give a variety of stats with a large portion of Decks specialized for one of the three main classes.
+	- Here's a provided [guideline](#deck-system-guideline) for deck progression based on ease and the benefits it provides to your class
 		- Before you begin running content, you should at least have Omega (as SK) or Main Characters of the adventure (for AA) unlocked and equipped. For Tanks, you don't necessarily have to focus on your deck just yet. Due to Tank scaling, most tanks with a modest amount of investment in seals, Xunawumon gear, and the Brick Wall deck (potentially a worse deck) are immediately able to do up to Berserk Arena.
 	- As you quest, you should come across many DigiEggs, some of which are needed for your class's decks. Don't be afraid to farm some eggs and their hatch data.
 		- Hatch data can be obtained by scanning DigiEggs that have a description of 'RANK 1/DATA' or as a direct drop on certain maps.
@@ -186,7 +185,7 @@ While you can continue with any of the 3 questlines, here is a recommended order
 	- Unlike DMO, DMW has multiple free ways of obtaining books. You can get pre-made books from the Spirit Boxes that drop from the Susanoomon Raid. You can also craft them by getting a Page of Knowledge 1, 2 and 3 then, bringing the pages to the Digitamamon NPC at DATS.
 	- If you're still paying attention to the Novice Questline, you should be able to complete Koromon's Challenge - 4 and push onwards right up to Greymon's Challenge - 1.
 
-If you've been keeping up with the seals for your class and saving up your money, you should have 5T for Transcendence [If not, skip ahead to the [money making section](#pre-early-game-money-making)]. Hatch the 2 5/5 Raremon DigiEggs from way earlier (Thankfully, you don't need any hatch data for it). Transcend your starter digimon then head back to Richard Sampson and clone their HP. Transcend your starter digimon then head back to Richard Sampson and clone their HP, making them entirely content-ready. FFor your journey Digimon, you can either buy the required Mid Class Dragon (for IcyMagnamon X/LordKnightmon X)/Rock (Craniamon X) Transcendence ConvertChips from other players or the Cash Shop, or you can farm Low Class chips from non-Character Bound Mid Data craft at Nanomon at DATS or various dungeons in the game. arm Low Class chips from non-Character Bound Mid Data craft at [Nanomon](https://digitalmastersworld.wiki.gg/wiki/Nanomon_(Item_Craft)#Transcendence_ConvertChip) at DATS or various dungeons in the game.
+If you've been keeping up with the seals for your class and saving up your money, you should have 5T for Transcendence. If not, skip ahead to the [money making section](#pre-early-game-money-making-) then come back here. Hatch the 2 5/5 Raremon DigiEggs from way earlier (Thankfully, you don't need any hatch data for it). Transcend your starter digimon then head back to Richard Sampson and clone their HP. Transcend your starter digimon then head back to Richard Sampson and clone their HP, making them entirely content-ready. FFor your journey Digimon, you can either buy the required Mid Class Dragon (for IcyMagnamon X/LordKnightmon X)/Rock (Craniamon X) Transcendence ConvertChips from other players or the Cash Shop, or you can farm Low Class chips from non-Character Bound Mid Data craft at Nanomon at DATS or various dungeons in the game. arm Low Class chips from non-Character Bound Mid Data craft at [Nanomon](https://digitalmastersworld.wiki.gg/wiki/Nanomon_(Item_Craft)#Transcendence_ConvertChip) at DATS or various dungeons in the game.
 
 At this point in time you now have 2 options:
 - You can continue questing as you still have several questlines to begin and complete:
