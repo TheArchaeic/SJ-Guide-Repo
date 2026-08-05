@@ -186,7 +186,7 @@ While you can continue with any of the 3 questlines, here is a recommended order
 	- Unlike DMO, DMW has multiple free ways of obtaining books. You can get pre-made books from the Spirit Boxes that drop from the Susanoomon Raid. You can also craft them by getting a Page of Knowledge 1, 2 and 3 then, bringing the pages to the Digitamamon NPC at DATS.
 	- If you're still paying attention to the Novice Questline, you should be able to complete Koromon's Challenge - 4 and push onwards right up to Greymon's Challenge - 1.
 
-If you've been keeping up with the seals for your class and saving up your money, you should have 5T for Transcendence. Hatch the 2 5/5 Raremon DigiEggs from way earlier (Thankfully, you don't need any hatch data for it). Transcend your starter digimon then head back to Richard Sampson and clone their HP. Transcend your starter digimon then head back to Richard Sampson and clone their HP, making them entirely content-ready. FFor your journey Digimon, you can either buy the required Mid Class Dragon (for IcyMagnamon X/LordKnightmon X)/Rock (Craniamon X) Transcendence ConvertChips from other players or the Cash Shop, or you can farm Low Class chips from non-Character Bound Mid Data craft at Nanomon at DATS or various dungeons in the game. arm Low Class chips from non-Character Bound Mid Data craft at [Nanomon](https://digitalmastersworld.wiki.gg/wiki/Nanomon_(Item_Craft)#Transcendence_ConvertChip) at DATS or various dungeons in the game.
+If you've been keeping up with the seals for your class and saving up your money, you should have 5T for Transcendence [If not, skip ahead to the [money making section](#pre-early-game-money-making)]. Hatch the 2 5/5 Raremon DigiEggs from way earlier (Thankfully, you don't need any hatch data for it). Transcend your starter digimon then head back to Richard Sampson and clone their HP. Transcend your starter digimon then head back to Richard Sampson and clone their HP, making them entirely content-ready. FFor your journey Digimon, you can either buy the required Mid Class Dragon (for IcyMagnamon X/LordKnightmon X)/Rock (Craniamon X) Transcendence ConvertChips from other players or the Cash Shop, or you can farm Low Class chips from non-Character Bound Mid Data craft at Nanomon at DATS or various dungeons in the game. arm Low Class chips from non-Character Bound Mid Data craft at [Nanomon](https://digitalmastersworld.wiki.gg/wiki/Nanomon_(Item_Craft)#Transcendence_ConvertChip) at DATS or various dungeons in the game.
 
 At this point in time you now have 2 options:
 - You can continue questing as you still have several questlines to begin and complete:
@@ -537,7 +537,7 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 
 ## Mid-Mid Game
 Now that you've acquired Fanglongmon gear, a large portion of the game has now opened up for you. Here on out, you have several tasks to progress:
-### Acquire your (Free) SSS+:
+### Acquire your (Free) SSS+
 <details>
 <summary>For SK DPS</summary>
 
@@ -587,7 +587,7 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 
 **The next two tasks can be done interchangeably (and, at times, it is recommended to do so.)**
 
-### Go for a proper Digivice:
+### Go for a proper Digivice
 
 <details>
 <summary>For SK DPS</summary>
@@ -665,7 +665,7 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 
 </details>
 
-### Acquire proper Clothing:
+### Acquire proper Clothing
 
 <details>
 <summary>For SK DPS</summary>
