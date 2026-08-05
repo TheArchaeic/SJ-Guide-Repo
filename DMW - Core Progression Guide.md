@@ -380,32 +380,32 @@ Now that you're ready to progress further, open your Underworld Gear. You've now
 	- You can craft Gizumon Lab passes with 100 Spare parts at the Gizumon NPC at Digimon Maze Entrance. Spare parts drop from any digimon at the Digimon Maze maps (Digimon Maze Entrance included)
 - Farm the normal difficulty Holy Beast Dungeons -
 	- [Scar of Water Crystal (EDGN)](https://digitalmastersworld.wiki.gg/wiki/Scar_of_Water_Crystal) - This dungeon has 1 of each attribute digimon as bosses. Due to the final boss, Xuanwumon, being a VA, you should take a Data for advantage.
-   		- **Recommended Gear:**: Underworld Set
+   		- **Recommended Gear:** Underworld Set
      	- **Recommended Clothes:** Any
     	- If you're TA, you should aim to get the Normal/Shiny Ear and Ring to replace the Underworld gear once it runs out.
         	- The distinction between Shiny Gear and Normal Xuanwumon gear is that Shiny Gear does not require Number Change Stones as the Numbers will always be max.
 		- You can make EDGN passes by using 100 Scar Essence at the Renamon NPC in D-Terminal. Scar Essence can be farmed at any mob in Glacier Area.
 	- [Uprising Flame (ZDGN)](https://digitalmastersworld.wiki.gg/wiki/Uprising_Flame) - This dungeon has 3 Vaccine Bosses with a Virus as the final boss. Despite the earlier 3 Vaccines, it's better to take a Vaccine for Zhuqiaomon at the end.
-   		- **Recommended Gear:**: Underworld Set
+   		- **Recommended Gear:** Underworld Set
      	- **Recommended Clothes:** Any
 		- If you're SK, you should aim to get the Normal/Flame Gear from here to replace your Underworld gear once it runs out.
 			- The distinction between Flame Gear and Normal Zhuqiaomon gear is that Flame Gear does *not* require Number Change Stones as the Numbers will always be max.
 		- You should be careful due to both Phoenixmon and Zhuqiaomon having a Return (Damage Reflection) mechanic. In order to cure the debuff, they will summon smaller mobs that, when killed, dispel the debuff.
 		- You can make ZDGN passes by using 100 Piece [Uprising Flame] at the Renamon NPC in D-Terminal. Piece [Uprising Flame] can be farmed at any mob in File Island.
 	- [Trace of Black Steel (BDGN)](https://digitalmastersworld.wiki.gg/wiki/Trace_of_Black_Steel) - This dungeon is 3 Data Bosses. As such, it is highly recommended to take a Virus.
-   		- **Recommended Gear:**: Underworld Set
+   		- **Recommended Gear:** Underworld Set
      	- **Recommended Clothes:** Any
 		- Before you attack the boss, you should destroy the towers. They will aggro you and, once aggro'd, will give buffs to the bosses. These buffs can be re-casted on the bosses, refreshing their time and increasing the buff the boss receives.
 		- You can make BDGN passes by using 100 Energy of Steel at the Renamon NPC in D-Terminal. Energy of Steel can be farmed at any mob in Server Continent.
 	- [Descending Thunder God (QDGN)](https://digitalmastersworld.wiki.gg/wiki/Descending_Thunder_God) - This dungeon is 4 Data Bosses. As such, it is highly recommended to take a Virus.
-   		- **Recommended Gear:**: Underworld Set
+   		- **Recommended Gear:** Underworld Set
      	- **Recommended Clothes:** Any
 		- If you're AA, you should aim to get the Normal/Radiant Gear from here to replace your Underworld gear once it runs out.
 			- The distinction between Radiant Gear and Normal Qinglongmon gear is that Radiant gear does *not* require Number Change Stones as the numbers will always be max.
 		- Qinglongmon's mechanics are generally simple, however he does have a hidden aspect to his "Feel the Pain" skill. "Feel the Pain" is chain lightning, increasing with damage as it hits each player. Therefore, players should separate if the skill does come out.
 		- You can make QDGN passes by using 100 Energy of Thunder God at the Renamon NPC in D-Terminal. Energy of Thunder God can be farmed at any mob in the Digimon Maze (excluding Digimon Maze Entrance).
 - (Optional, but recommended) Start running [Digimon Arena](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena) Normal Difficulty (Colosseum/Colo)
-  	- **Recommended Gear:**: Underworld Set
+  	- **Recommended Gear:** Underworld Set
     - **Recommended Clothes:** Any
 	- Despite being considered one of the most unfun pieces of content in the game, Colo has a lot of progression-helping items such as BM Items, Amazing Renewal Increase Stones, Amazing Digitary Power Stones, OCS, NCS and more in the Exchange.
 	- You can run it once a day.
