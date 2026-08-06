@@ -540,24 +540,24 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 <details>
 <summary>For SK DPS</summary>
 
-- **Recommended order: Susanoomon Shin -> Omegamon Alter-B -> Fanglongmon Shin**
+- **Recommended order: Susanoomon Shin -> Fanglongmon Shin -> Omegamon Alter-B**
 - Despite their placement in the game, the Tokyo-Odaiba dungeons required for the True Digivce for SK DPS are extremely poorly balanced. Without a Fang gear SSS+ or a Tank, it's almost guaranteed you will die. This makes VA and/or Vi SSS+ *invaluable* to SK DPS Progression.
-- While it is possible to go for Omegamon Alter-B first, the vast majority of random parties look for SSS+ DPS, rather than SSS DPS. Susanoomon Shin is also technically the most accessible as he only requires Colo Hero.
+- While it is possible to go for Omegamon Alter-B first, the vast majority of random parties look for SSS+ DPS, rather than SSS DPS. Susanoomon Shin and Fanglongmon Shin are also technically the most accessible as they only require Colo Hero.
 - Susanoomon Shin guide [here](https://digitalmastersworld.wiki.gg/wiki/Advanced_Spirit_System). Keep in mind, you will also need base [Susanoomon](https://digitalmastersworld.wiki.gg/wiki/Guide:Susanoomon) as well.
 	- Susanoomon Shin requires 90 Supreme Evolution Summon V1 Cards.
 		- Colo Hero gives 1 card per round, for a total of 12 cards per successful Round 6.
 		- Colo Extreme gives 2 cards on Round 1 and Round 2. Round 3 to 6 gives 4 cards per round. For a full Round 6 run, this gives 20 cards.
+- Fanglongmon Shin guide located [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Fanglongmon_(Shin)). Keep in mind, akin to Susanoomon Shin, you will need base Fanglongmon as well.
+	- Fanglongmon Shin requires 200 Supreme Evolution Summon V2 Cards.
+	- Colo Hero gives 1 card per round, for a total of 12 cards per successful Round 6.
+	- Colo Extreme gives 2 cards on Round 1 and Round 2. Round 3 to 6 gives 4 cards per round. For a full Round 6 run, this gives 20 cards.
+	- Due to being able to collect cards in Colo Hero, it is possible to get Fanglongmon Shin before getting Alter-B
 - Omegamon Alter-B guide located [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Omegamon_Alter-B). If you obtained the Omega deck earlier on, you should have the requisite digimon, Omegamon Alter-S.
 	- Collecting the components for the Alpha part (Sample A) requires you to clear the [Berserk Arena](https://digitalmastersworld.wiki.gg/wiki/Berserk_Arena) dungeon.
 	- Unlike most Dungeons, it requires 2 tanks and 2 dps. You will be fighting two bosses at the same time: Omegamon Alter-S and Omegamon Zwart.
 	- 1 DPS and 1 Tank should be Vaccine. The other DPS and Tank should be Data. The Vaccine DPS and Tank will take on Alter-S, the Data DPS and Tank will take on Zwart.
 	- The Bosses are linked to a limited extent. Every 20%, starting at 80%, the bosses will summon a minion and give a debuff onto the Tank and DPS that increases the damage they take and reflects any damage they do on the boss back onto them. In order to dispel the debuff, the **other side** must kill their minion.
 	- Keep in mind, if you do not time your minion kills correctly, you will effectively fail the run due to one side being unable to clear their debuff.
-- Fanglongmon Shin guide located [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Fanglongmon_(Shin)). Keep in mind, akin to Susanoomon Shin, you will need base Fanglongmon as well.
-	- Fanglongmon Shin requires 200 Supreme Evolution Summon V2 Cards.
-	- Colo Hero gives 1 card per round, for a total of 12 cards per successful Round 6.
-	- Colo Extreme gives 2 cards on Round 1 and Round 2. Round 3 to 6 gives 4 cards per round. For a full Round 6 run, this gives 20 cards.
-	- Due to being able to collect cards in Colo Hero, it is possible to get Fanglongmon Shin before getting Alter-B
 
 </details>
 <details>
@@ -573,14 +573,18 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 <details>
 <summary>For Tanks</summary>
 
-- **Recommended order: CosmicSusanoomon (Shin) -> BlackShoutmon X7**
-- CosmicSusanoomon (Shin) (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:BlackShoutmonX7)) requires base CosmicSusanoomon as well.
-	- In order to make CosmicSusanoomon (Shin), you need one Spirit of the Lunar and one Spirit of the Solar.
-		- To make a Spirit of the Solar, you must sacrifice one of the H and B versions of the Spirits of Light, Thunder, Darkness, Water, and Steel at the Susanoomon (Shin) NPC at DATS>.
-		- To make a Spirit of the Lunar, you must sacrifice one of the H and B versions of the Spirits of Fire, Wind, Ice, Wood, and Earth at the Susanoomon (Shin) NPC at DATS>.
+- **Recommended order: BlackShoutmon X7 -> CosmicSusanoomon (Shin) -> Lucemon Satan Mode (Shin)**
+- Unlike AA DPS or SK DPS, Tank SSS+ aren't required for later content. While they make later content easier/faster, they are not required in any decks nor do they have any Union groups.
+	- The one exception being BlackShoutmon X7. BlackShoutmon X7 is present in both a Union group and the Sovereign Bulwark: Eternal Dominion deck.
 - BlackShoutmon X7 (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:BlackShoutmonX7)) requires only a single item obtained from GreenZone (EX).
 	- Unlike most other dungeons in the game, this is a single-player Tank only dungeon. You will need to use Shoutmon DX, otherwise you will get one-shot guaranteed.
 	- It is effectively a Tank Skill Check. If you're bad at tanking, this dungeon will teach you to be better.
+- Lucemon Satan Mode (Shin) requires completing a quest from Culumon, which requires you to kill the boss of Mysterious Underground.
+	- Mysterious Underground is accessible at the GulusGammamon NPC in D-Terminal. Just like GreenZone (EX), it is a "tank check" dungeon that requires a specific digimon: CosmicSusanoomon.
+- CosmicSusanoomon (Shin) guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:BlackShoutmonX7).
+	- In order to make CosmicSusanoomon (Shin), you need one Spirit of the Lunar and one Spirit of the Solar.
+		- To make a Spirit of the Solar, you must sacrifice one of the H and B versions of the Spirits of Light, Thunder, Darkness, Water, and Steel at the Susanoomon (Shin) NPC at DATS>.
+		- To make a Spirit of the Lunar, you must sacrifice one of the H and B versions of the Spirits of Fire, Wind, Ice, Wood, and Earth at the Susanoomon (Shin) NPC at DATS>.
 
 </details>
 
