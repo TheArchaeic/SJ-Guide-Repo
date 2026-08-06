@@ -317,10 +317,10 @@ Before we establish what your progression should look like, there's are four unm
 - Every Digimon, when initially hatched, only has a maximum skill level of 10 for each of its skills on each evolution. You gain skill points by killing enemies that you gain experience from, which increases your skill mastery for **that specific evolution and any unlocked evolutions.** Be warned, you gain less skill experience on higher evolutions, so be prepared to grind for a bit.
 - You can increase the maximum skill level **for that specific evolution** using [Skill Digicode](https://digitalmastersworld.wiki.gg/wiki/Skill_DigiCode) items. The increased maximum skill levels do not transfer between evolutions, so be careful on what evolutions you decide to use them on.
 	- You cannot increase the amount of skill points you have at your disposal. You will always end up with a maximum of 76 Skill Points. 
-- For SK, this often means that unlocking level 25 will create a division of 72 points invested in their most powerful skill (Typically the F3) and 4 points invested in their lowest cooldown skill (Typically F1)
-- For AA Digis, skill levels are generally unimportant as they will not do much damage for you. If you do use skills (Such as those on SSS+ like BloomLord), you will often be using it for the buff it gives your digimon rather than the actual damage.
-	- Exceptions exist such as Gankoomon X (SSS) and Diarbbitmon (SSS) who have a buff that increases with skill level.
-	- If an AA Digimon has a 'gimmick' such as Damage over Time (DoT) or Area of Effect (AoE), it may sometimes be worth to increase the skill level to make the 'gimmick' stronger and/or viable in later content.
+- For SK and AA Digis, this often means that unlocking level 25 will create a division of 72 points invested in their most powerful skill (Typically the F3) and 4 points invested in their lowest cooldown skill (Typically F1)
+	- Generally, AA Digis do not need to go for lv25 skill level as AA skill damage isn't generally worth it.
+		- Exceptions do exist such as Gankoomon X (SSS), Diarbbitmon (SSS), and JetMervamon (SSS) who have a buff that increases with skill level.
+		- If an AA Digimon has a 'gimmick' such as Damage over Time (DoT) or Area of Effect (AoE), it may sometimes be worth to increase the skill level to lv25 make the 'gimmick' stronger and/or viable in later content.
  - TA Digis are the exception as their skills all cost 1 point. Therefore, it is usually possible to max out all of their skills to 25 and have 4 points leftover.
 
 ### Memory Skills
