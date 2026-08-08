@@ -847,7 +847,7 @@ Before you officially move onto endgame content, you should ensure that you are 
   	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Royal : Yggdrasil Bracelet + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
     - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
     - The fourth of the 7 Spiral Mountain dungeons.
-    - You can craft passes for Pied DG by using 200 Nightmare Essence at the ... NPC at the Top of a Nightmare map. Nightmare Essence is dropped by any mob on the Top of a Nightmare map of Spiral Mountain.
+    - You can craft passes for Pied DG by using 200 Nightmare Essence at the Angewomon NPC at the Top of a Nightmare map. Nightmare Essence is dropped by any mob on the Top of a Nightmare map of Spiral Mountain.
  - [Odaiba Park](https://digitalmastersworld.wiki.gg/wiki/Odaiba_Park)
   	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
     - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
