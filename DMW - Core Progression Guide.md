@@ -545,11 +545,11 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 - While it is possible to go for Omegamon Alter-B first, the vast majority of random parties look for SSS+ DPS, rather than SSS DPS. Susanoomon Shin and Fanglongmon Shin are also technically the most accessible as they only require Colo Hero.
 - Susanoomon Shin guide [here](https://digitalmastersworld.wiki.gg/wiki/Advanced_Spirit_System). Keep in mind, you will also need base [Susanoomon](https://digitalmastersworld.wiki.gg/wiki/Guide:Susanoomon) as well.
 	- Susanoomon Shin requires 90 Supreme Evolution Summon V1 Cards.
-		- Colo Hero gives 1 card per round, for a total of 12 cards per successful Round 6.
+		- Colo Hero gives 2 card per round, for a total of 12 cards per successful Round 6.
 		- Colo Extreme gives 2 cards on Round 1 and Round 2. Round 3 to 6 gives 4 cards per round. For a full Round 6 run, this gives 20 cards.
 - Fanglongmon Shin guide located [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Fanglongmon_(Shin)). Keep in mind, akin to Susanoomon Shin, you will need base Fanglongmon as well.
 	- Fanglongmon Shin requires 200 Supreme Evolution Summon V2 Cards.
-	- Colo Hero gives 1 card per round, for a total of 12 cards per successful Round 6.
+	- Colo Hero gives 2 card per round, for a total of 12 cards per successful Round 6.
 	- Colo Extreme gives 2 cards on Round 1 and Round 2. Round 3 to 6 gives 4 cards per round. For a full Round 6 run, this gives 20 cards.
 	- Due to being able to collect cards in Colo Hero, it is possible to get Fanglongmon Shin before getting Alter-B
 - Omegamon Alter-B guide located [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Omegamon_Alter-B). If you obtained the Omega deck earlier on, you should have the requisite digimon, Omegamon Alter-S.
@@ -573,7 +573,7 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 <details>
 <summary>For Tanks</summary>
 
-- **Recommended order: BlackShoutmon X7 -> CosmicSusanoomon (Shin) -> Lucemon Satan Mode (Shin)**
+- **Recommended order: BlackShoutmon X7 -> CosmicSusanoomon (Shin) -> SK SSS+ \[for Deck Purposes] -> AA SSS+ \[for Deck Purposes] -> Lucemon Satan Mode (Shin)**
 - Unlike AA DPS or SK DPS, Tank SSS+ aren't required for later content. While they make later content easier/faster, they are not required in any decks nor do they have any Union groups.
 	- The one exception being BlackShoutmon X7. BlackShoutmon X7 is present in both a Union group and the Sovereign Bulwark: Eternal Dominion deck.
 - BlackShoutmon X7 (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:BlackShoutmonX7)) requires only a single item obtained from GreenZone (EX).
