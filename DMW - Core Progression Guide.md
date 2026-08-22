@@ -297,8 +297,8 @@ Before we establish what your progression should look like, there's are four unm
 		- Earring - Max HP, Max HP, Block, Avoid
 		- Necklace - Max HP, Max HP, Max HP, Attack Speed
 		- Bracelet - Depends:
-				- Royal : X-Knight Bracelet/Miracle Bracelet - Max HP, Max HP, Avoid, Avoid, Defense
-				- Royal : Yggdrasil Bracelet - Max HP, Max HP, Block, Avoid, Defense
+			- Royal : X-Knight Bracelet/Miracle Bracelet - Max HP, Max HP, Avoid, Avoid, Defense
+			- Royal : Yggdrasil Bracelet - Max HP, Max HP, Block, Avoid, Defense
 		- Ring - Max HP, Max HP, Max HP, Defense
     
 		</details>
