@@ -924,7 +924,7 @@ Before you officially move onto endgame content, you should ensure that you are 
 	- Abyssal Aegis has 5% Defense while RK instead has 10% Attack Speed (instead of 8), but lacks the 5% Defense. Abyssal is technically the better deck, but you should aim for what is easier.
 3. The Iron Pact
 4. **\<Mid Game Requirement>** Seafood Stew/Iron Thronefall
-	Seafood Stew lacks any defense or Attack Speed increases, but it's also an extremely easy deck to get and gives a 10% HP increase. Thus, you can technically skip the first few if you have Seafood Stew.
+	- Seafood Stew lacks any defense or Attack Speed increases, but it's also an extremely easy deck to get and gives a 10% HP increase. Thus, you can technically skip the first few if you have Seafood Stew.
 5. Brick Wall/Aegis of the Divide
 	- While Aegis Nova does exist as an option, I'm personally excluding it due to less stats than Brick Wall and not as easily unlocked compared to Brick Wall. Brick Wall is significantly more accessible (barring Magnamon X due to the DigiEgg of Miracles) compared to Aegis of the Divide which requires 2 SSS+ (200T craft costs). The only tradeoff between the two is 5% Attack Speed (which, as a tank, is generally negligible)
 6. **\<End Game Requirement>** Defensive Order/Aegis Vortex
