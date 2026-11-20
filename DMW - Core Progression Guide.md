@@ -197,7 +197,7 @@ At this point in time you now have 2 options:
 		- If you take this route, you will also be able to complete Gabumon's Challenge - 1 all the way to Garurumon's Challenge - 1
 		- Once you progress into the Spiral Mountain areas, you'll be able to farm the materials to craft the first level of the [Spiral Keyring](https://digitalmastersworld.wiki.gg/wiki/KeyRing), an equipable gear item that starts out weak but gets stronger with each upgrade. However, besides the first upgrade, the keyring requires materials from the Spiral Mountain dungeons, endgame content that you will not be ready for yet.
 - You can also opt to move into proper Early Game instead. While questing is important as you'll miss out on Area Completion rewards, you can also balance it with doing dungeons and keep yourself from being burned out.
-	- Before moving into Early Game proper, make sure you have the 'Omega' deck unlocked and active (as SK) or the 'Main Characters of the adventure' deck (for AA)
+	- Before moving into Early Game proper, make sure you have the 'Omega' deck unlocked and active (as SK), the 'Main Characters of the adventure' deck (as AA) or 'Rookie Ramparts' (as Tank)
 
 ## Pre-Early Game: Money-Making $$$
 
@@ -377,34 +377,17 @@ Most bosses in the game follow a similar mechanical design, This is *not* 100% a
 ## Content Progression
 
 Now that you're ready to progress further, open your Underworld Gear. You've now got 30 Days to acquire more permanent and worthwhile gear. Here are the best ways to make use of it:
-- [DPS Classes] (Optional but Recommended) Farm the Gizumon Lab Dungeon at Digimon Maze Entrance to enhance your second starter and obtain a usable Data SSS.
+- [DPS Classes] (Optional but Recommended) Farm the Gizumon Lab Dungeon at Digimon Maze Entrance to enhance your second starter. For SK, this'll land you a usable Vaccine SSS.
 	- You can craft Gizumon Lab passes with 100 Spare parts at the Gizumon NPC at Digimon Maze Entrance. Spare parts drop from any digimon at the Digimon Maze maps (Digimon Maze Entrance included)
-- Farm the normal difficulty Holy Beast Dungeons -
-	- [Scar of Water Crystal (EDGN)](https://digitalmastersworld.wiki.gg/wiki/Scar_of_Water_Crystal) - This dungeon has 1 of each attribute digimon as bosses. Due to the final boss, Xuanwumon, being a VA, you should take a Data for advantage.
-   		- **Recommended Gear:** Underworld Set
-     	- **Recommended Clothes:** Any
-    	- If you're TA, you should aim to get the Normal/Shiny Ear and Ring to replace the Underworld gear once it runs out.
-        	- The distinction between Shiny Gear and Normal Xuanwumon gear is that Shiny Gear does not require Number Change Stones as the Numbers will always be max.
-		- You can make EDGN passes by using 100 Scar Essence at the Renamon NPC in D-Terminal. Scar Essence can be farmed at any mob in Glacier Area.
-	- [Uprising Flame (ZDGN)](https://digitalmastersworld.wiki.gg/wiki/Uprising_Flame) - This dungeon has 3 Vaccine Bosses with a Virus as the final boss. Despite the earlier 3 Vaccines, it's better to take a Vaccine for Zhuqiaomon at the end.
-   		- **Recommended Gear:** Underworld Set
-     	- **Recommended Clothes:** Any
-		- If you're SK, you should aim to get the Normal/Flame Gear from here to replace your Underworld gear once it runs out.
-			- The distinction between Flame Gear and Normal Zhuqiaomon gear is that Flame Gear does *not* require Number Change Stones as the Numbers will always be max.
-		- You should be careful due to both Phoenixmon and Zhuqiaomon having a Return (Damage Reflection) mechanic. In order to cure the debuff, they will summon smaller mobs that, when killed, dispel the debuff.
-		- You can make ZDGN passes by using 100 Piece [Uprising Flame] at the Renamon NPC in D-Terminal. Piece [Uprising Flame] can be farmed at any mob in File Island.
-	- [Trace of Black Steel (BDGN)](https://digitalmastersworld.wiki.gg/wiki/Trace_of_Black_Steel) - This dungeon is 3 Data Bosses. As such, it is highly recommended to take a Virus.
-   		- **Recommended Gear:** Underworld Set
-     	- **Recommended Clothes:** Any
-		- Before you attack the boss, you should destroy the towers. They will aggro you and, once aggro'd, will give buffs to the bosses. These buffs can be re-casted on the bosses, refreshing their time and increasing the buff the boss receives.
-		- You can make BDGN passes by using 100 Energy of Steel at the Renamon NPC in D-Terminal. Energy of Steel can be farmed at any mob in Server Continent.
-	- [Descending Thunder God (QDGN)](https://digitalmastersworld.wiki.gg/wiki/Descending_Thunder_God) - This dungeon is 4 Data Bosses. As such, it is highly recommended to take a Virus.
-   		- **Recommended Gear:** Underworld Set
-     	- **Recommended Clothes:** Any
-		- If you're AA, you should aim to get the Normal/Radiant Gear from here to replace your Underworld gear once it runs out.
-			- The distinction between Radiant Gear and Normal Qinglongmon gear is that Radiant gear does *not* require Number Change Stones as the numbers will always be max.
-		- Qinglongmon's mechanics are generally simple, however he does have a hidden aspect to his "Feel the Pain" skill. "Feel the Pain" is chain lightning, increasing with damage as it hits each player. Therefore, players should separate if the skill does come out.
-		- You can make QDGN passes by using 100 Energy of Thunder God at the Renamon NPC in D-Terminal. Energy of Thunder God can be farmed at any mob in the Digimon Maze (excluding Digimon Maze Entrance).
+- Farm the solo dungeon Holy Beast Dungeon [Solo] - This dungeon has the 4 Holy Beast digimon as bosses. As all 4 bosses are NO, you should use the strongest digimon at your disposal.
+	- **Recommended Gear:** Underworld Set
+	- **Recommended Clothes:** Any
+  	- This dungeon has no ticket cost.
+  	- This dungeon drops various items that are very useful to you as a new player. The main drop are the 4 different types of crystal obtained upon clearing. You will need to run the dungeon a total of 120 times.
+  		- You need 40 Jack Frost of Water Crystals as material to upgrade your ring.
+  		- You need 40 Uprising Infernal Flame Crystals as material to upgrade your necklace.
+  		- You need 40 Flawless Crystals of Trace as material to upgrade your earring.
+  		- You need 120 Thunder God's Lightning Crystals as material to upgrade your ring, necklace and earring.
 - (Optional, but recommended) Start running [Digimon Arena](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena) Normal Difficulty (Colosseum/Colo)
   	- **Recommended Gear:** Underworld Set
     - **Recommended Clothes:** Any
@@ -416,8 +399,6 @@ Now that you're ready to progress further, open your Underworld Gear. You've now
 		- Round 36's boss, Xuanwumon, may give some trouble, thus you may need a DA Digimon.
 		- Round 37 is Zhuqiaomon. As mentioned for ZDGN, be careful as he may hit cast his debuffing skill, which can give you the Return debuff.
 		- Round 38-40 is Qinglongmon, Baihumon and Fanglongmon, all Data bosses. You will need a Vi Digimon for these 3. 
-
-Once you've acquired Zhuqaiomon/Qinglongmon gear at Semi-Perfect strength, you can now move onwards to the last stretch of early game:
 - SK DPS - Obtain Ogudomon (and complete your SSS Digimon trifecta).
 	- If you want to do it fully F2P, you will need to collect 1 of each of the Seven Great Demon Lords and level them to 120. At 120, they will each unlock a one-time quest from White-bearded Guru NPC at DATS.
 	- Once you obtain the Source of Sin item from the quest, you can convert the Demon Lord digimon into one of 7 items necessary to hatch Ogudomon.
@@ -430,54 +411,24 @@ Once you've acquired Zhuqaiomon/Qinglongmon gear at Semi-Perfect strength, you c
   	- To Obtain Shoutmon DX, you need Shoutmon, Greymon (C) and Mailbirdramon. All 3 digieggs are obtainable from GreenZone Advanced. The OmegaShout item is obtainable from GreenZone NightSky.
   	- For the Evolution Items, you must obtain the Gold Digizoid Data from the Crusade Mode quests given by the Pickmon NPC in D-Terminal.
   		- It takes 3 Gold Digizoid Data to craft the Alpha and beta parts, for a total of 6 Gold Digizoid Data.
-- Farm the Hard Holy Beast Dungeons/SSS Holy Beast Dungeons for Holy Beast/Radiant Holy Beast gear:
-	- AA DPS/Tank - It is technically possible to skip this step and move on straight to Fang gear. For AA players however, it is highly unrecommended.
-	- The Hard and SSS dungeons have different drops from the normal difficulty dungeons as well as a health increase on the bosses.
-		- They only drop the accessories needed to craft their relevant piece of holy beast gear.
-		- Qinglongmon drops all 3 Radiant Qing gear due to being used to upgrade the Lv.5 Holy Beast gear into Lv.5 Radiant Holy Beast gear. It also has a much higher crystal drop rate due to needing more crystals.
-		- Radiant Holy Beast gear is an **upgrade** of standard Holy Beast gear. It does **not** have max numbers and requires Number Change Stones.
-	- The SSS Holy Beast dungeons are recommended for farming the special crystals required.
-	- You can craft the next set of gear: The Holy Beast/Radiant Holy Beast Gear at the[Digitamamon NPC](https://digitalmastersworld.wiki.gg/wiki/Digitamamon_(Item_Make)) at DATS Center.
-	- [Scar of Water Crystal Hard](https://digitalmastersworld.wiki.gg/wiki/Scar_of_Water_Crystal_(Hard_Mode))/[SSS](https://digitalmastersworld.wiki.gg/wiki/Scar_of_Water_Crystal_(SSS)) (EDGH/SSS) - Ring
-   		- **Recommended Gear**: Underworld Set
-		- You can make EDGH/SSS passes by using 100 Scar Essence [Hard] at the Renamon NPC in D-Terminal. Scar Essence [Hard] can be farmed at any mob on the Valley of Light map of the Tokyo-Odaiba Area.
-	- [Uprising Flame Hard](https://digitalmastersworld.wiki.gg/wiki/Uprising_Flame_(Hard_Mode))/[SSS](https://digitalmastersworld.wiki.gg/wiki/Uprising_Flame_(SSS)) (ZDGH/SSS) - Necklace
-   		- **Recommended Gear**: Underworld Set
-		- You can make ZDGH/SSS passes by using 100 Piece [Uprising Flame] \[Hard] at the Renamon NPC in D-Terminal. Piece [Uprising Flame] \[Hard] can be farmed at any mob on the Shibuya map of the Tokyo-Odaiba Area.
-	- [Trace of Black Steel Hard](https://digitalmastersworld.wiki.gg/wiki/Trace_of_Black_Steel_(Hard_Mode))/[SSS](https://digitalmastersworld.wiki.gg/wiki/Trace_of_Black_Steel_(SSS)) (BDGH/SSS) - Earring
-   		- **Recommended Gear**: Underworld Set
-		- You can make BDGH/SSS passes by using 100 Energy of Steel at the Renamon NPC in D-Terminal. Energy of Steel [Hard] can be farmed at any mob on the Minato City map of the Tokyo-Odaiba Area.
-	- [Descending Thunder God Hard](https://digitalmastersworld.wiki.gg/wiki/Descending_Thunder_God_(Hard_Mode))/[SSS](https://digitalmastersworld.wiki.gg/wiki/Descending_Thunder_God_(SSS)) (QDGH/SSS)
-   		- **Recommended Gear**: Underworld Set
-		- You can make QDGH/SSS passes by using 100 Energy of Thunder God at the Renamon NPC in D-Terminal. Energy of Thunder God [Hard] can be farmed at any mob on the Odaiba map of the Tokyo-Odaiba Area.
-- Once you've acquired Radiant Holy Beast gear at Semi-Perfect, you should begin farming [Royal Base [Normal]](https://digitalmastersworld.wiki.gg/wiki/Royal_Base) (RBN) for the Royal : X-Knight Bracelet.
-  	- **Recommended Gear**: Radiant Four Holy Beast Lv.5 Gear + Underworld Bracelet (if still Active)
-	- This dungeon is not short by any means. It does take a decent amount of time.
-	- Assuming the final boss, Dexmon, drops 3 memories each time, you only need approximately 20 runs total to craft a Royal : X-Knight Bracelet, assuming you obtain a Yggdrasil's Records item within those 20 runs.
-	- It is highly recommended to take a Vaccine attribute digimon as the second and third boss rooms are only Virus attribute digimon.
-	- As long as you are not using an X-Antibody Digimon (such as Craniamon X), you will need X-Protector items otherwise you will be hit with the X-Program debuff and have your damage and survivability halved. X-Protectors are obtainable from some Sub Quests/Daily Quests in Versandi Terminal.
-	- You can craft RBN passes by using 100 Warp Energy at the Magnamon X NPC in Versandi Terminal. Warp Energy can be farmed at any mob on the Versandi Terminal map.
-
+  	
 Before you move onto Mid game, you should ensure that you have the accessories and decks:
-- Accessory-wise, Radiant Holy Beast Lv.5 gear and the Royal : X-Knight Bracelet, all semi-perfect.
+- Accessory-wise, ensure you've upgraded most of your underworld gear to Fanglongmon's Ultimate Ancient Ring [Journey], except your bracelet.
 - Decks:
 	- AA DPS: 'Our Final Evolution'
  	- SK DPS: 'Forsaken Strain'
   	- TA: 'Seafood Stew/Iron Thronefall'
-- If you haven't been keeping up with your seals, make sure you get most of the overworld farmable ones to 1k (or 3k if you have the resources)
+- If you haven't been keeping up with your seals, make sure you get most of the overworld farmable ones for your class to 1k (or 3k if you have the resources)
 
-# Mid Game
-
-## Early-Mid Game
 
 Now that you've moved forward into Mid Game, you have two new tasks you can now do:
 - Run [Digimon Arena Hero Mode](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena#Round_Rewards_Colosseum_Hero_Mode/Extreme_Mode) (Colo Hero)
-	- **Recommended Gear:** Radiant Four Holy Beast Lv.5 Gear + Royal : X-Knight Bracelet  
+	- **Recommended Gear:** Underworld Set
+	- **Recommended Clothes:** Any
+ 	- **Recommended Decks:** 'Our Final Evolution' [AA]/'Forsaken Strain' [SK]/'Seafood Stew/Iron Thronefall' [TA]
 	- Unlike Colo Normal Mode, Hero is 6 rounds of more mechanic-heavy bosses. You also do not lose points upon failure, making it worthwhile to always check if you can clear the next round. Talk to the Dux NPC to start the Hero difficulty.
 	- Ensure your digimon 'trifecta' are fully leveled and cloned. You will need a VA, DA and Vi Digimon to complete Colo Hero.
-	- As you complete each round, you will receive Boxes that contain Ranking Points and Supreme Evolution Summon Cards (v1 and v2).
-		- These cards are used for Susanoomon Shin/Omegamon X (v1) and Fanglongmon Shin/Examon X (v2).
-		- Until you have Fanglongmon Gear, however, you will have limited content to use them in as you will be lacking damage. Therefore, I do not fully recommend focusing on obtaining them until later.
+	- As you complete each round, you will receive Boxes that contain Ranking Points.
     
 	<details>
 	<summary>Round Mechanics</summary>
@@ -499,6 +450,9 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 			- At 10%, all of her mechanics stop. She gains high damage reduction and a 100% attack buff. This DPS check requires that you kill her before your tank dies.
 
 	</details>
+
+
+
 - Farm [Boundaries of Yin and Yang](https://digitalmastersworld.wiki.gg/wiki/Boundaries_of_Yin_and_Yang)/[Boundaries of Yin and Yang SSS](https://digitalmastersworld.wiki.gg/wiki/Boundaries_of_Yin_and_Yang_(SSS)) (FDG/FDGSSS)
 	- **Recommended Gear:** Radiant Four Holy Beast Lv.5 Gear + Royal : X-Knight Bracelet  
 	- While the drops are slightly different between the two, there is no substantial difference between them like the Hard Holy Beast Dungeons and the SSS Holy Beast Dungeons
@@ -534,7 +488,10 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 
 **Fanglongmon's Ancient Gear/Fanglongmon's Ultimate Ancient Gear is the hard bottleneck between the beginning of midgame and the rest of the game (Until the Spiral Mountain dungeons). It is highly recommended to complete your fang gear grind before pressing forward any further.**
 
-## Mid-Mid Game
+# Mid Game
+
+## Early-Mid Game
+
 Now that you've acquired Fanglongmon gear, a large portion of the game has now opened up for you. Here on out, you have several tasks to progress:
 ### Acquire your (Free) SSS+
 <details>
@@ -544,14 +501,12 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 - Despite their placement in the game, the Tokyo-Odaiba dungeons required for the True Digivce for SK DPS are extremely poorly balanced. Without a Fang gear SSS+ or a Tank, it's almost guaranteed you will die. This makes VA and/or Vi SSS+ *invaluable* to SK DPS Progression.
 - While it is possible to go for Omegamon Alter-B first, the vast majority of random parties look for SSS+ DPS, rather than SSS DPS. Susanoomon Shin and Fanglongmon Shin are also technically the most accessible as they only require Colo Hero.
 - Susanoomon Shin guide [here](https://digitalmastersworld.wiki.gg/wiki/Advanced_Spirit_System). Keep in mind, you will also need base [Susanoomon](https://digitalmastersworld.wiki.gg/wiki/Guide:Susanoomon) as well.
-	- Susanoomon Shin requires 90 Supreme Evolution Summon V1 Cards.
-		- Colo Hero gives 2 card per round, for a total of 12 cards per successful Round 6.
-		- Colo Extreme gives 2 cards on Round 1 and Round 2. Round 3 to 6 gives 4 cards per round. For a full Round 6 run, this gives 20 cards.
+	- Susanoomon Shin requires 42 Supreme Evolution Summon V1 Cards.
+		- Shopping Mall dungeon gives 6, requiring a total of 7 successful runs.
 - Fanglongmon Shin guide located [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Fanglongmon_(Shin)). Keep in mind, akin to Susanoomon Shin, you will need base Fanglongmon as well.
-	- Fanglongmon Shin requires 200 Supreme Evolution Summon V2 Cards.
-	- Colo Hero gives 2 card per round, for a total of 12 cards per successful Round 6.
-	- Colo Extreme gives 2 cards on Round 1 and Round 2. Round 3 to 6 gives 4 cards per round. For a full Round 6 run, this gives 20 cards.
-	- Due to being able to collect cards in Colo Hero, it is possible to get Fanglongmon Shin before getting Alter-B
+	- Fanglongmon Shin requires 35 Supreme Evolution Summon V2 Cards.
+	- Shopping Mall dungeon gives 5, requiring a total of 7 successful runs.
+	- Due to being able to collect cards from Shopping Mall, it is possible to get Fanglongmon Shin before getting Alter-B
 - Omegamon Alter-B guide located [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Omegamon_Alter-B). If you obtained the Omega deck earlier on, you should have the requisite digimon, Omegamon Alter-S.
 	- Collecting the components for the Alpha part (Sample A) requires you to clear the [Berserk Arena](https://digitalmastersworld.wiki.gg/wiki/Berserk_Arena) dungeon.
 	- Unlike most Dungeons, it requires 2 tanks and 2 dps. You will be fighting two bosses at the same time: Omegamon Alter-S and Omegamon Zwart.
@@ -590,7 +545,7 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 
 **The next two tasks can be done interchangeably (and, at times, it is recommended to do so.)**
 
-### Go for a proper Digivice
+### Obtain the second tier Digivice Upgrade
 
 <details>
 <summary>For SK DPS</summary>
