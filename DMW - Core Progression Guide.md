@@ -389,8 +389,9 @@ Now that you're ready to progress further, open your Underworld Gear. You've now
   		- You need 40 Flawless Crystals of Trace as material to upgrade your earring.
   		- You need 120 Thunder God's Lightning Crystals as material to upgrade your ring, necklace and earring.
 - (Optional, but recommended) Start running [Digimon Arena](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena) Normal Difficulty (Colosseum/Colo)
-  	- **Recommended Gear:** Underworld Set
-    - **Recommended Clothes:** Any
+  	- **Recommended Gear:** Standard 
+	- **Recommended Clothes:** Any
+ 	- **Recommended Decks:** 'Our Final Evolution' [AA]/'Forsaken Strain' [SK]/'Seafood Stew/Iron Thronefall' [TA]
 	- Despite being considered one of the most unfun pieces of content in the game, Colo has a lot of progression-helping items such as BM Items, Amazing Renewal Increase Stones, Amazing Digitary Power Stones, OCS, NCS and more in the Exchange.
 	- You can run it once a day.
 	- Do not do Hero Mode (Dux/Dukemon NPC) or EX (Examon X NPC). You will not be strong enough and you *will* waste one of your runs.
@@ -454,7 +455,9 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 
 
 - Farm [Boundaries of Yin and Yang](https://digitalmastersworld.wiki.gg/wiki/Boundaries_of_Yin_and_Yang)/[Boundaries of Yin and Yang SSS](https://digitalmastersworld.wiki.gg/wiki/Boundaries_of_Yin_and_Yang_(SSS)) (FDG/FDGSSS)
-	- **Recommended Gear:** Radiant Four Holy Beast Lv.5 Gear + Royal : X-Knight Bracelet  
+	- **Recommended Gear:** Radiant Four Holy Beast Lv.5 Gear + Royal : X-Knight Bracelet/Underworld Gear Set
+	- **Recommended Clothes:** Any
+ 	- **Recommended Decks:** 'Our Final Evolution' [AA]/'Forsaken Strain' [SK]/'Seafood Stew/Iron Thronefall' [TA]
 	- While the drops are slightly different between the two, there is no substantial difference between them like the Hard Holy Beast Dungeons and the SSS Holy Beast Dungeons
 		- With that said, I highly recommend doing the SSS version of FDG. It is designed around properly doing the mechanics and is more accessible since you don't have SSS+ yet.
 	- Before you face off against Fanglongmon, You must face all 4 Holy Beasts.
