@@ -680,7 +680,7 @@ As a general notice, by this point in your progression, you should start working
     - You will need to run the Path of Bravery, Path of Friendship and Venomous Vortex (Hard) dungeons. These dungeons all require a tank.
 		- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
  		- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
-		- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+		- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Any [Tank]
  		- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
         - The dungeons drop 2 of the required materials per clear, 1 non-Character Bound and 1 Character Bound.
             - If you choose to keep the 1 non-Character Bound, you only need to do 50 of each dungeon, or 150 dungeon runs total.
@@ -704,21 +704,21 @@ As a general notice, by this point in your progression, you should start working
     - Burning Battle Field
 		- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
  		- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
-		- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+		- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Any [Tank]
  		- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
         - AA DPS - You will need 300 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 60 total times. If you choose to sell the non-CB items, you will need 100 total dungeon runs.
         - Tank - You will need 150 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 30 total times. If you choose to sell the non-CB items, you will need 50 total dungeon runs.
     - Chaotic Battle Field
 		- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
  		- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
-		- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+		- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Any [Tank]
  		- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
         - AA DPS - You will need 150 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 30 total times. If you choose to sell the non-CB items, you will need 50 total dungeon runs.
         - Tank - You will need 300 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 60 total times. If you choose to sell the non-CB items, you will need 100 total dungeon runs.
     - Final Battle
 		- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
  		- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
-		- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+		- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Any [Tank]
  		- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
         - You will need 200 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 40 total times. If you choose to sell the non-CB items, you will need 67 total dungeon runs.
     - Advanced Challenge - 2 of the Novice Challenge gives 20 of each dungeon material.
@@ -732,7 +732,7 @@ As a general notice, by this point in your progression, you should start working
 - Run [Digimon Arena Extreme Mode](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena#Round_Rewards_Colosseum_Hero_Mode/Extreme_Mode) (Colo EX)
 	- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet + Tamer's Goggles
 	- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
-	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Any [Tank]
 	- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
 	- Colo EX is the hardest difficulty of Colo currently out and gives the most points as well. Talk to Examon X to start the EX difficulty.
 	- EX is only 6 rounds, which are Rounds 10 to 15 of Colo Hero but more difficult. A tank is absolutely a requirement. Unlike Hero, each boss has a field effect active during their battle, with the field effects of Examon X and Ordinemon being stronger than in Hero.
@@ -749,7 +749,7 @@ As a general notice, by this point in your progression, you should start working
 - Royal Base [[Hard]](https://digitalmastersworld.wiki.gg/wiki/Royal_Base_Hard) (RBH)
 	- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
 	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
 	- **Recommended Deck:** Celestfracture [SK]/Praelium Divinus [AA]/'Brick Wall/Aegis of the Divide' [TA]
 	- You can craft RBH passes by using 100 Warp Energy [Hard] at the Magnamon X NPC at Versandi Terminal. Warp Energy [Hard] can be farmed at any mob on the Versandi Terminal map.
 	- This dungeon drops all the required materials for the Ultimate : Yggdrasil Bracelet [Journey]. For SK, this upgrade is very miniscule however, for TK and AA, it is a pretty noticeable increase.
@@ -818,35 +818,35 @@ As you are officially in Spiral content, you should ensure (if you haven't alrea
 - [Marine Dragon Domain](https://digitalmastersworld.wiki.gg/wiki/Marine_Dragon_Domain) (MDG)
 	- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Ultimate : Yggdrasil Bracelet [Journey] + Tamer's Goggles + KeyRing Lv.1
 	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
 	- **Recommended Deck:** Celestfracture [SK]/Praelium Divinus [AA]/'Brick Wall/Aegis of the Divide' [TA]
 	- The first of the 6 Spiral Mountain dungeons.
 	- You can craft passes for MDG by using 200 Marine Essence at the WarGreymon NPC at the Forest of the Beginning. Marine Essence is dropped by any mob on the Forest of the Beginning map of Spiral Mountain.
 - [Front Yard of Marionette Mansion](https://digitalmastersworld.wiki.gg/wiki/Front_Yard_of_Marionette_Mansion) (PDG)
 	- **Recommended Gear:** Ring of the Marine Dragon + Fanglongmon's Ultimate Ancient Gear [Journey] + Ultimate : Yggdrasil Bracelet [Journey] + Complete Tamer's Goggles + KeyRing Lv.3
 	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
 	- **Recommended Deck:** Latent Power [SK]/'Corrupted Power/Corrupted Power V2/Knights of the Crimson Path' [AA]/'Defensive Order/Aegis Vortex' [TA]
 	- The second of the 6 Spiral Mountain dungeons.
 	- You can craft passes for PDG by using 200 Floras Essence at the Hikari NPC at the Forest of the Marionette. Floras Essence is dropped by any mob on the Forest of the Marionette map of Spiral Mountain.
 - [Back of the Empire](https://digitalmastersworld.wiki.gg/wiki/Back_of_the_Empire) (Mugen DG)
 	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Fanglongmon's Ultimate Ancient Earring [Journey] + Ultimate : Yggdrasil Bracelet [Journey] + Complete Tamer's Goggles + KeyRing Lv.5
 	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
 	- **Recommended Deck:** Latent Power [SK]/'Corrupted Power/Corrupted Power V2/Knights of the Crimson Path' [AA]/'The Sovereign Bulwark' [TA]
 	- The third of the 6 Spiral Mountain dungeons.
 	- You can craft passes for Mugen DG by using 200 Metal Essence at the Andromon NPC at the Underground City. Metal Essence is dropped by any mob on the Metal Empire and Underground City maps of Spiral Mountain.
 - [Stage of Clown](https://digitalmastersworld.wiki.gg/wiki/Stage_of_Clown) (Pied DG)
 	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Ultimate : Yggdrasil Bracelet [Journey] + Complete Tamer's Goggles + KeyRing Lv.7
 	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
 	- **Recommended Deck:** 'Royal Knights X/Demon Lord X' [SK]/'Power of Darkness/Strong Bonds/Order of the Crimson Nexus' [AA]/'TSB: Abyss/Dragon Scale' [TA]
     - The fourth of the 6 Spiral Mountain dungeons.
     - You can craft passes for Pied DG by using 200 Nightmare Essence at the Angewomon NPC at the Top of a Nightmare map. Nightmare Essence is dropped by any mob on the Top of a Nightmare map of Spiral Mountain.
  - [Odaiba Park](https://digitalmastersworld.wiki.gg/wiki/Odaiba_Park)
 	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.7
 	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
 	- **Recommended Deck:** 'Royal Knights X/Demon Lord X' [SK]/'Power of Darkness/Strong Bonds/Order of the Crimson Nexus' [AA]/'TSB: Abyss/Dragon Scale' [TA]
     - Odaiba Park is the unlock dungeon for Omegamon Merciful Mode.
 
@@ -855,14 +855,14 @@ As you are officially in Spiral content, you should ensure (if you haven't alrea
 - [Void Space](https://digitalmastersworld.wiki.gg/Void_Space)
 	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.9
 	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
 	- **Recommended Deck:** 'Royal Knights X/Demon Lord X' [SK]/'Power of Darkness/Strong Bonds/Order of the Crimson Nexus' [AA]/'TSB: Abyss/Dragon Scale' [TA]
     - The fifth of the 6 Spiral Mountain dungeons.
     - It requires no passes. 
 - [Fanglongmon Dungeon (Hard)](https://digitalmastersworld.wiki.gg/Fanglongmon_Dungeon_(Hard)) (FDGH)
 	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Corrupted Earring of the Metallic Beast + Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.10
-	- **Recommended Digivice:** Void Digivice [SK/AA/Tank]
-	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Digivice:** Void Digivice
+	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
 	- **Recommended Deck:** Legendary Core [SK]/Order of the Eclipsed Genesis [AA]/TSB: Crown [TA]
  - [Void Space \[Hard\]](https://digitalmastersworld.wiki.gg/Void_Space)
 	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Corrupted Earring of the Metallic Beast + Corrupted Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.10
