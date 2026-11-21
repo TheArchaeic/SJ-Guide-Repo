@@ -658,17 +658,17 @@ Here on out, you have several tasks to progress:
 </details>
 
 As a general notice, by this point in your progression, you should start working on (if you haven't already), your Goggles. As a reminder, these are 100% fully farmed from the Digital Area maps (with exception to the Complete Tamer's Goggles upgrade, which require the Digital Area dungeons). Goggles can be crafted at the Takato NPC in DATS.
-	- Recommended Goggles:
-		- SK DPS - SK/SK
-		- AA DPS - AT/AT
-		- Tank - DE/DE
-		- While it is tempting to upgrade any Goggles you get just to fill the spot, it is **Highly Recommended** you do not do so. It is an expensive (and, if farmed, time consuming) endeavor to upgrade your Goggles. You will either cripple your damage potential or lose out on defensive potential, making you weaker than expected on later content.
-	- Upgrade Materials can be dropped from their respective named maps or from their respective raid boss on the Forest Area (Tour) map accessible from the Dukemon NPC at the Forest Area map.
-		- Wasteland Essence - Wasteland Area/Wasteland Area (Night)
-		- Cloud Essence - Cloud Area
-		- Forest Essence - Forest Area
-		- Ocean Essence - Ocean Area
-		- Beast Essence - Four Holy Beast Area/Collapsed Four Holy Beast Area/Zhuqiaomon's Resting Area/Four Holy Beast Area (D-Reaper)
+- Recommended Goggles:
+	- SK DPS - SK/SK
+	- AA DPS - AT/AT
+	- Tank - DE/DE
+	- While it is tempting to upgrade any Goggles you get just to fill the spot, it is **Highly Recommended** you do not do so. It is an expensive (and, if farmed, time consuming) endeavor to upgrade your Goggles. You will either cripple your damage potential or lose out on defensive potential, making you weaker than expected on later content.
+- Upgrade Materials can be dropped from their respective named maps or from their respective raid boss on the Forest Area (Tour) map accessible from the Dukemon NPC at the Forest Area map.
+	- Wasteland Essence - Wasteland Area/Wasteland Area (Night)
+	- Cloud Essence - Cloud Area
+	- Forest Essence - Forest Area
+	- Ocean Essence - Ocean Area
+	- Beast Essence - Four Holy Beast Area/Collapsed Four Holy Beast Area/Zhuqiaomon's Resting Area/Four Holy Beast Area (D-Reaper)
 		
 
 ### Obtain the second tier Digivice Upgrade
@@ -747,7 +747,7 @@ As a general notice, by this point in your progression, you should start working
         	- Sometimes the Ebemon fail to spawn. If that occurs, continue attacking Millenniummon.
 
 - Royal Base [[Hard]](https://digitalmastersworld.wiki.gg/wiki/Royal_Base_Hard) (RBH)
-	- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
+	- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet + Tamer's Goggles
 	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
 	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
 	- **Recommended Deck:** Celestfracture [SK]/Praelium Divinus [AA]/'Brick Wall/Aegis of the Divide' [TA]
