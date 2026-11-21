@@ -376,30 +376,42 @@ Most bosses in the game follow a similar mechanical design, This is *not* 100% a
 
 ## Content Progression
 
+### Early Early Game
+
 Now that you're ready to progress further, open your Underworld Gear. You've now got 30 Days to acquire more permanent and worthwhile gear. Here are the best ways to make use of it:
 - [DPS Classes] (Optional but Recommended) Farm the Gizumon Lab Dungeon at Digimon Maze Entrance to enhance your second starter. For SK, this'll land you a usable Vaccine SSS.
+	- **Recommended Gear:** Novice Starter Gear
+ 	- **Recommended Digivice:** Starter Digivice
+	- **Recommended Clothes:** Any
+	- **Recommended Deck:** The Chosen Kin [SK]/Main Characters of the Adventure [AA]/Rookie Ramparts [TA]
 	- You can craft Gizumon Lab passes with 100 Spare parts at the Gizumon NPC at Digimon Maze Entrance. Spare parts drop from any digimon at the Digimon Maze maps (Digimon Maze Entrance included)
 - Farm the solo dungeon Holy Beast Dungeon [Solo] - This dungeon has the 4 Holy Beast digimon as bosses. As all 4 bosses are NO, you should use the strongest digimon at your disposal.
-	- **Recommended Gear:** Underworld Set
+	- **Recommended Gear:** Novice Starter Gear
+ 	- **Recommended Digivice:** Starter Digivice
 	- **Recommended Clothes:** Any
+ 	- **Recommended Deck:** The Chosen Kin [SK]/Main Characters of the Adventure [AA]/Rookie Ramparts [TA]
   	- This dungeon has no ticket cost.
   	- This dungeon drops various items that are very useful to you as a new player. The main drop are the 4 different types of crystal obtained upon clearing. You will need to run the dungeon a total of 120 times.
+  		- **Note: Each of these crystals are Character Bound and only used to upgrade the Underworld Gear to Fanglongmon's Ultimate Ancient Gear [Journey].**
   		- You need 40 Jack Frost of Water Crystals as material to upgrade your ring.
   		- You need 40 Uprising Infernal Flame Crystals as material to upgrade your necklace.
   		- You need 40 Flawless Crystals of Trace as material to upgrade your earring.
   		- You need 120 Thunder God's Lightning Crystals as material to upgrade your ring, necklace and earring.
 - (Optional, but recommended) Start running [Digimon Arena](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena) Normal Difficulty (Colosseum/Colo)
-  	- **Recommended Gear:** Standard 
+  	- **Recommended Gear:** Novice Starter Gear
+ 	- **Recommended Digivice:** Starter Digivice
 	- **Recommended Clothes:** Any
- 	- **Recommended Decks:** 'Our Final Evolution' [AA]/'Forsaken Strain' [SK]/'Seafood Stew/Iron Thronefall' [TA]
+ 	- **Recommended Decks:** Ancient Connections [SK]/Main Characters of the Adventure [AA]/'Abyssal Aegis/Royal Knights' [TA]
 	- Despite being considered one of the most unfun pieces of content in the game, Colo has a lot of progression-helping items such as BM Items, Amazing Renewal Increase Stones, Amazing Digitary Power Stones, OCS, NCS and more in the Exchange.
 	- You can run it once a day.
 	- Do not do Hero Mode (Dux/Dukemon NPC) or EX (Examon X NPC). You will not be strong enough and you *will* waste one of your runs.
 	- There are 10 rounds.
 		- Rounds 1-4 are the Odaiba Raid boss pairs. Focus on one first then target the other. Do not try to kill both at the same time.
-		- Round 36's boss, Xuanwumon, may give some trouble, thus you may need a DA Digimon.
-		- Round 37 is Zhuqiaomon. As mentioned for ZDGN, be careful as he may hit cast his debuffing skill, which can give you the Return debuff.
-		- Round 38-40 is Qinglongmon, Baihumon and Fanglongmon, all Data bosses. You will need a Vi Digimon for these 3. 
+ 		- Round 5 is Dexmon from RBN. You will need a VA digimon.
+		- Round 6's boss, Xuanwumon, may give some trouble, thus you may need a DA Digimon.
+		- Round 7 is Zhuqiaomon. You should be careful due to Zhuqiaomon having a Return (Damage Reflection) mechanic. In order to cure the debuff, they will summon smaller mobs that, when killed, dispel the debuff.
+		- Round 38 is Qinglongmon. Qinglongmon's mechanics are generally simple, however he does have a hidden aspect to his "Feel the Pain" skill. "Feel the Pain" is chain lightning, increasing with damage as it hits each player. Therefore, players should separate if the skill does come out.
+		- Round 39 and 40 Baihumon and Fanglongmon, both of which are Data bosses. You will need a Vi Digimon for these 3.
 - SK DPS - Obtain Ogudomon (and complete your SSS Digimon trifecta).
 	- If you want to do it fully F2P, you will need to collect 1 of each of the Seven Great Demon Lords and level them to 120. At 120, they will each unlock a one-time quest from White-bearded Guru NPC at DATS.
 	- Once you obtain the Source of Sin item from the quest, you can convert the Demon Lord digimon into one of 7 items necessary to hatch Ogudomon.
@@ -412,21 +424,50 @@ Now that you're ready to progress further, open your Underworld Gear. You've now
   	- To Obtain Shoutmon DX, you need Shoutmon, Greymon (C) and Mailbirdramon. All 3 digieggs are obtainable from GreenZone Advanced. The OmegaShout item is obtainable from GreenZone NightSky.
   	- For the Evolution Items, you must obtain the Gold Digizoid Data from the Crusade Mode quests given by the Pickmon NPC in D-Terminal.
   		- It takes 3 Gold Digizoid Data to craft the Alpha and beta parts, for a total of 6 Gold Digizoid Data.
-  	
-Before you move onto Mid game, you should ensure that you have the accessories and decks:
-- Accessory-wise, ensure you've upgraded most of your underworld gear to Fanglongmon's Ultimate Ancient Ring [Journey], except your bracelet.
-- Decks:
-	- AA DPS: 'Our Final Evolution'
- 	- SK DPS: 'Forsaken Strain'
-  	- TA: 'Seafood Stew/Iron Thronefall'
-- If you haven't been keeping up with your seals, make sure you get most of the overworld farmable ones for your class to 1k (or 3k if you have the resources)
 
+Acquire your Digivice: 
+<details>
 
-Now that you've moved forward into Mid Game, you have two new tasks you can now do:
-- Run [Digimon Arena Hero Mode](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena#Round_Rewards_Colosseum_Hero_Mode/Extreme_Mode) (Colo Hero)
-	- **Recommended Gear:** Underworld Set
+<summary>For SK DPS</summary>
+
+- As a SK DPS, you gain the most damage from the Royal Digivice or True Digivice.
+	- While you can acquire the Royal Digivice as a quest reward from the Novice Challenge (MetalGreymon's Challenge - 1), it is also obtainable from the boxes given by the Royal Knights' Dominion daily quest from the Magnamon NPC in Versandi Terminal.
+		- It does not have a high drop rate from the boxes so you shouldn't rely on them too heavy.
+- True Digivice requires materials from three of the Tokyo-Odaiba dungeons: Tokyo Tower Observatory [Solo], Fuji TV Rooftop [Solo], and Venomous Vortex [Solo].
+    - While the non-Solo dungeons exist, this guide **does not** recommend that you complete those for your digivice. It is a noticeable longer process that also requires you over-gear then come back due to the balancing on the non-Solo dungeons.
+  	- **Recommended Gear:** Radiant Four Holy Beast Lv.5 Gear + Royal : X-Knight Bracelet/Underworld Gear Set
+ 	- **Recommended Digivice:** Starter Digivice
 	- **Recommended Clothes:** Any
- 	- **Recommended Decks:** 'Our Final Evolution' [AA]/'Forsaken Strain' [SK]/'Seafood Stew/Iron Thronefall' [TA]
+ 	- **Recommended Decks:** Omega [SK]/Fallen and Chosen Megas [AA]/The Iron Pact [TA]
+    - All 3 dungeons do not require any passes.
+        - The dungeons accessed by Pixiemon in Odaiba are required for True Digivice (Advanced), not the base True Digivice. Do not worry about them for now.
+	- Each clear gives 1 material for a maximum needed runs of 70.
+ 		- The reward boxes have a chance to drop an extra digivice material.
+</details> 
+		
+<details>
+<summary>For AA DPS/Tanks</summary>
+
+- Both Tanks and AA DPS benefit the most from the D-Ark.
+   - While Tanks don't benefit as much from D-Ark v1 to v5 compared to AA DPS, it is still a necessary step to obtain the Digizoid D-Ark and ChromeDigizoid D-Ark, the tank D-Ark upgrades.
+- For D-Ark Lv1 to Lv5, you must complete the Vajramon [Solo] dungeon and the Vikaralamon [Solo] dungeon.
+    - While the non-Solo dungeons exist, this guide **does not** recommend that you complete those for your digivice. It is a noticeable longer process that also requires you over-gear then come back due to the balancing on the non-Solo dungeons.
+  	- **Recommended Gear:** Radiant Four Holy Beast Lv.5 Gear + Royal : X-Knight Bracelet/Underworld Gear Set
+ 	- **Recommended Digivice:** Starter Digivice
+	- **Recommended Clothes:** Any
+ 	- **Recommended Decks:** Omega [SK]/Fallen and Chosen Megas [AA]/The Iron Pact [TA]
+    - Both dungeons do not require any passes.
+    - Each clear gives 35 materials, requiring 62 runs of each.
+</details>
+
+
+### Late Early Game
+
+- Run [Digimon Arena Hero Mode](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena#Round_Rewards_Colosseum_Hero_Mode/Extreme_Mode) (Colo Hero)
+	- **Recommended Gear:** Radiant Four Holy Beast Lv.5 Gear + Royal : X-Knight Bracelet/Underworld Gear Set
+ 	- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
+	- **Recommended Clothes:** Any
+ 	- **Recommended Deck:** Forsaken Strain [SK]/Our Final Evolution [AA]/'Seafood Stew/Iron Thronefall' [TA]
 	- Unlike Colo Normal Mode, Hero is 6 rounds of more mechanic-heavy bosses. You also do not lose points upon failure, making it worthwhile to always check if you can clear the next round. Talk to the Dux NPC to start the Hero difficulty.
 	- Ensure your digimon 'trifecta' are fully leveled and cloned. You will need a VA, DA and Vi Digimon to complete Colo Hero.
 	- As you complete each round, you will receive Boxes that contain Ranking Points.
@@ -456,9 +497,10 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 
 - Farm [Boundaries of Yin and Yang](https://digitalmastersworld.wiki.gg/wiki/Boundaries_of_Yin_and_Yang)/[Boundaries of Yin and Yang SSS](https://digitalmastersworld.wiki.gg/wiki/Boundaries_of_Yin_and_Yang_(SSS)) (FDG/FDGSSS)
 	- **Recommended Gear:** Radiant Four Holy Beast Lv.5 Gear + Royal : X-Knight Bracelet/Underworld Gear Set
+ 	- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
 	- **Recommended Clothes:** Any
- 	- **Recommended Decks:** 'Our Final Evolution' [AA]/'Forsaken Strain' [SK]/'Seafood Stew/Iron Thronefall' [TA]
-	- While the drops are slightly different between the two, there is no substantial difference between them like the Hard Holy Beast Dungeons and the SSS Holy Beast Dungeons
+ 	- **Recommended Deck:** Forsaken Strain [SK]/Our Final Evolution [AA]/'Seafood Stew/Iron Thronefall' [TA]
+	- While the drops are slightly different between the two, there is no substantial difference between them.
 		- With that said, I highly recommend doing the SSS version of FDG. It is designed around properly doing the mechanics and is more accessible since you don't have SSS+ yet.
 	- Before you face off against Fanglongmon, You must face all 4 Holy Beasts.
 		- For the 4 Holy Beasts, they have all of their mechanics from their Hard Dungeon counterparts. For example, Baihumon has the 3 Towers from his boss fight.
@@ -466,163 +508,81 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 			- The debuffs do come back eventually, but the boss will respawn his minions around the same time as well.
 	- Fanglongmon's fight takes place on a different map after defeating Qinglongmon. Unlike the 4 Holy Beasts, he does not have any field debuffs.
 	- All of Fanglongmon's mechanics are obvious and straightforward.
-	- In order to make a full set of Lv.10 Fanglongmon's Ancient Gear, you need the following:
-		- Ring - 
-			- 3 Sealed Xuanwumon Ring
-			- 5 Ring of Sealed Zhuqiaomon
-			- 3 Ring of Sealed Baihumon
-			- 3 Qinglongmon's Sealed Ring
-			- 145 Fanronkou
-		- Necklace -
-			- 3 Sealed Xuanwumon Necklace
-			- 5 Necklace of Sealed Zhuqiaomon
-			- 3 Necklace of Sealed Baihumon
-			- 3 Qinglongmon's Sealed Necklace
-			- 145 Fanronkou
-		- Earring - 
-			- 5 Earring of Sealed Zhuqiaomon
-			- 5 Earring of Sealed Baihumon
-			- 5 Qinglongmon's Sealed Earring
-			- 145 Fanronkou
-	- If you wish to upgrade one of the Lv.10 Ancient Gear to Ultimate Ancient Gear, you will need the corresponding piece of Divine Holy Beast gear and 20 Fanronkou
-		- Divine Holy Beast gear is the upgrade after Radiant Holy Beast Lv.5. In order to craft it, you need to acquire a Divine Crystal from FDG, which is a rare drop from Fanglongmon.
-		- The only difference between the non-Ultimate Ancient Gear and the Ultimate Ancient Gear is that Ultimate Ancient Gear does not require Number Change Stones as the numbers are always at max. However, the Spiral Mountain dungeon gear *does* require Ultimate Ancient Gear.
+	- For the remaining materials to upgrade your Underworld Gear to Fanglongmon's Ultimate Ancient Gear [Journey], you will 265 Fanronkou total.
+ 		- 80 for the Ring, 80 for the Necklace, 80 for the Earring and 25 for the Bracelet.
+		- You will also need a Divine Crystal (a rare drop from Fanglongmon) to upgrade the Underworld Bracelet to the Ultimate: Yggdrasil Bracelet [Journey]
 	- You can craft FDG/FDG SSS passes by using 100 Yin and Yang Spirit at the Renamon NPC in D-Terminal. Yin and Yang Spirit can be farmed at any mob on the Versandi Terminal map.
 
-**Fanglongmon's Ancient Gear/Fanglongmon's Ultimate Ancient Gear is the hard bottleneck between the beginning of midgame and the rest of the game (Until the Spiral Mountain dungeons). It is highly recommended to complete your fang gear grind before pressing forward any further.**
+**Fanglongmon's Ultimate Ancient Gear [Journey] is the hard bottleneck between the end of Early Game and the rest of the game (Until the Spiral Mountain dungeons). It is highly recommended to complete your fang gear grind before pressing forward any further.**
 
 # Mid Game
 
 ## Early-Mid Game
 
-Now that you've acquired Fanglongmon gear, a large portion of the game has now opened up for you. Here on out, you have several tasks to progress:
+Here on out, you have several tasks to progress:
+
 ### Acquire your (Free) SSS+
 <details>
 <summary>For SK DPS</summary>
 
 - **Recommended order: Susanoomon Shin -> Fanglongmon Shin -> Omegamon Alter-B**
-- Despite their placement in the game, the Tokyo-Odaiba dungeons required for the True Digivce for SK DPS are extremely poorly balanced. Without a Fang gear SSS+ or a Tank, it's almost guaranteed you will die. This makes VA and/or Vi SSS+ *invaluable* to SK DPS Progression.
 - While it is possible to go for Omegamon Alter-B first, the vast majority of random parties look for SSS+ DPS, rather than SSS DPS. Susanoomon Shin and Fanglongmon Shin are also technically the most accessible as they only require Colo Hero.
 - Susanoomon Shin guide [here](https://digitalmastersworld.wiki.gg/wiki/Advanced_Spirit_System). Keep in mind, you will also need base [Susanoomon](https://digitalmastersworld.wiki.gg/wiki/Guide:Susanoomon) as well.
-	- Susanoomon Shin requires 42 Supreme Evolution Summon V1 Cards.
+	- Susanoomon Shin requires 42 Cosmic Souls, which drop from the Susanoomon (Shin) enemy summoned from Supreme Evolution Summon V1 Cards.
 		- Shopping Mall dungeon gives 6, requiring a total of 7 successful runs.
+  	- You will also need 2 Spirit of the Solar and 2 Spirit of the Lunar.
+  		- Spirit of the Solar can be acquired by sacrificing Solar-MagnaGarurumon at the Susanoomon (Shin) NPC in DATS. In order to acquire Solar-MagnaGarurumon, you must sacrifice one of the H and B versions of the Spirits of Light, Thunder, Darkness, Water, and Steel at the Susanoomon (Shin) NPC at DATS>.
+  		- Spirit of the Lunar can be acquired by sacrificing Lunar-KaiserGreymon at the Susanoomon (Shin) NPC in DATS. In order to acquire Lunar-KaiserGreymon, you must sacrifice one of the H and B versions of the Spirits of Fire, Wind, Ice, Wood, and Earth at the Susanoomon (Shin) NPC at DATS>.
 - Fanglongmon Shin guide located [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Fanglongmon_(Shin)). Keep in mind, akin to Susanoomon Shin, you will need base Fanglongmon as well.
-	- Fanglongmon Shin requires 35 Supreme Evolution Summon V2 Cards.
-	- Shopping Mall dungeon gives 5, requiring a total of 7 successful runs.
-	- Due to being able to collect cards from Shopping Mall, it is possible to get Fanglongmon Shin before getting Alter-B
+	- Fanglongmon Shin requires 35 Dragon Blood, which drops from the Fanglongmon (Shin) enemy summoned from Supreme Evolution Summon V2 Cards.
+		- Shopping Mall dungeon gives 5, requiring a total of 7 successful runs.
+		- Due to being able to collect cards from Shopping Mall, it is possible to get Fanglongmon Shin before getting Alter-B
+ 	- You also need 30 Fanronkou, which are obtained from Fanglongmon Dungeon/Fanglongmon Dungeon SSS.
+  	- You also need one core of each of the Four Holy Beasts: Qinglongmon Core, Zhuqiaomon Core, Baihumon Core, and Xuanwumon Core. They can all be crafted at the UlforceVeedramon Future Mode NPC at DATS.
+  		- In order to craft the core, you need to sacrifice 11 of each respective Holy Beast at the Fanglongmon (Shin) NPC at DATS for 11 Core Fragments, combined with 25 (or, in the case of Qinglongmon, 50) of each Holy Beasts' respective crystal from their respective dungeons.
+  	 		- Xuanwumon: Jack Frost of Water Crystal. This is obtained from the Scar of Water Crystal [Hard]/SSS dungeon.
+  	   		- Zhuqiaomon: Uprising Infernal Flame Crystal. This is obtained from the Uprising Flame [Hard]/SSS dungeon.
+  	     	- Baihumon: Flawless Crystal of Trace. This is obtained from the Trace of Black Steel [Hard]/SSS dungeon.
+  	      	- Qinglongmon: Thunder God's Lightning Crystal. This is obtained from the Descending Thunder God [Hard]/SSS dungeon.
 - Omegamon Alter-B guide located [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Omegamon_Alter-B). If you obtained the Omega deck earlier on, you should have the requisite digimon, Omegamon Alter-S.
 	- Collecting the components for the Alpha part (Sample A) requires you to clear the [Berserk Arena](https://digitalmastersworld.wiki.gg/wiki/Berserk_Arena) dungeon.
-	- Unlike most Dungeons, it requires 2 tanks and 2 dps. You will be fighting two bosses at the same time: Omegamon Alter-S and Omegamon Zwart.
-	- 1 DPS and 1 Tank should be Vaccine. The other DPS and Tank should be Data. The Vaccine DPS and Tank will take on Alter-S, the Data DPS and Tank will take on Zwart.
-	- The Bosses are linked to a limited extent. Every 20%, starting at 80%, the bosses will summon a minion and give a debuff onto the Tank and DPS that increases the damage they take and reflects any damage they do on the boss back onto them. In order to dispel the debuff, the **other side** must kill their minion.
-	- Keep in mind, if you do not time your minion kills correctly, you will effectively fail the run due to one side being unable to clear their debuff.
+		- Unlike most Dungeons, it requires 2 tanks and 2 dps. You will be fighting two bosses at the same time: Omegamon Alter-S and Omegamon Zwart.
+		- 1 DPS and 1 Tank should be Vaccine. The other DPS and Tank should be Data. The Vaccine DPS and Tank will take on Alter-S, the Data DPS and Tank will take on Zwart.
+		- The Bosses are linked to a limited extent. Every 20%, starting at 80%, the bosses will summon a minion and give a debuff onto the Tank and DPS that increases the damage they take and reflects any damage they do on the boss back onto them. In order to dispel the debuff, the **other side** must kill their minion.
+		- Keep in mind, if you do not time your minion kills correctly, you will effectively fail the run due to one side being unable to clear their debuff.
+  	- For the Beta part (Sample B), the Unidentified Black Digitron can be obtained from 'The Berserker - 1' and 'The Berserker - 2' quests, which can be picked up from the Culumon NPC at DATS with Agumon (Black) [BlitzGreymon] or Gabumon [CresGarurumon] out respectively.
+  		- 'The Berserker - 1' requires 20 kills of the raid bosses that spawn at Shinjuku Western Area (Day) map [Dukemon -> SaintGargomon -> Sakuyamon] and 7 kills of Eosmon from the Neverland Dungeon, accessed by the Eosmon NPC in D-Terminal.
+  	 		- It is highly recommended to obtain Susanoomon Shin before attempting Eosmon. It can summon small NPCs that require an AoE to clear out before they do big damage (and potentially kill) you.
+  	   		- 'The Berserker - 1' is also a repeatable quest, if you somehow lose your beta part.
+	 	- 'The Berserker - 2' requires 200 kills of the Minato City mobs for the "Black Digitron" drop. This quest is not repeatable.
 
 </details>
 <details>
 <summary>For AA DPS</summary>
 
 - **Recommended order: BloomLordmon -> DarknessBagramon/Shoutmon X7**
-- BloomLordmon (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:BloomLordmon)) requires running the solo dungeon, [Shopping Mall](https://digitalmastersworld.wiki.gg/wiki/Shopping_Mall), a minimum of 15 successful times as well as leveling and sacrificing 40 Palmon (Original). Make note, BloomLordmon can drop up to 3 eggs per successful run.
-	- With semi-perfect Fang gear and the same deck from the end of early game, you should easily be able to clear without issue.
+- BloomLordmon (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:BloomLordmon)) requires running the solo dungeon, [Shopping Mall](https://digitalmastersworld.wiki.gg/wiki/Shopping_Mall), a minimum of 15 successful times as well as leveling and sacrificing 40 Palmon (Original) at the BloomLordmon NPC in DATS. Make note, BloomLordmon can drop up to 3 eggs per successful run.
 - After obtaining BloomLordmon, run the 4-player dungeon [Bagramon's Domain](https://digitalmastersworld.wiki.gg/wiki/Bagramon%27s_Domain) for DarknessBagramon (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:DarknessBagramon)) as your Virus SSS+ and Shoutmon X7 (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:Shoutmon_X7)) as your Data SSS+. Similar to BloomLordmon, you will need at least 15 successful runs. **You will need a tank.**
 	- For X7, you will need at least 10 copies of each component digimon for X7 (Shoutmon, Greymon (C) and Mailbirdramon) as well as all the digimon required for X5 for the X7 quest itself.
+ 		- The ten copies can be sacrificed into Souls at the Shoutmon X7 NPC at DATS. Once you've completed the X7 questline, you'll be able to complete a daily at OmegaShoutmon NPC in D-Terminal. You will need one of each soul to complete the daily, which will grant you a 'Burning Rocker' item. You will need 10, combined with the 15 Divine Aura, to make the Shoutmon X7 items.
 
 </details>
 <details>
 <summary>For Tanks</summary>
 
 - **Recommended order: BlackShoutmon X7 -> CosmicSusanoomon (Shin) -> SK SSS+ \[for Deck Purposes] -> AA SSS+ \[for Deck Purposes] -> Lucemon Satan Mode (Shin)**
-- Unlike AA DPS or SK DPS, Tank SSS+ aren't required for later content. While they make later content easier/faster, they are not required in any decks nor do they have any Union groups.
-	- The one exception being BlackShoutmon X7. BlackShoutmon X7 is present in both a Union group and the Sovereign Bulwark: Eternal Dominion deck.
+- Unlike AA DPS or SK DPS, Tank SSS+ aren't required for later content. While they make content easier/faster, they are not required for actually doing the content.
+	- That said, they do all
 - BlackShoutmon X7 (guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:BlackShoutmonX7)) requires only a single item obtained from GreenZone (EX).
 	- Unlike most other dungeons in the game, this is a single-player Tank only dungeon. You will need to use Shoutmon DX, otherwise you will get one-shot guaranteed.
 	- It is effectively a Tank Skill Check. If you're bad at tanking, this dungeon will teach you to be better.
-- Lucemon Satan Mode (Shin) requires completing a quest from Culumon, which requires you to kill the boss of Mysterious Underground.
-	- Mysterious Underground is accessible at the GulusGammamon NPC in D-Terminal. Just like GreenZone (EX), it is a "tank check" dungeon that requires a specific digimon: CosmicSusanoomon.
+- Lucemon Satan Mode (Shin) requires the Dark Data item, obtained by completing a quest from Culumon which requires you to kill the boss of Mysterious Underground [TA], as well as 6 Sin items.
+	- Mysterious Underground [TA] is accessible at the GulusGammamon NPC in D-Terminal. Just like GreenZone (EX), it is a "tank check" dungeon that requires a specific digimon: CosmicSusanoomon.
+ 	- Each Sin can be obtained by hatching one of the other remaining Demon Lord digimon and sacrificing them at the Lucemon Falldown Mode NPC in DATS.
 - CosmicSusanoomon (Shin) guide [here](https://digitalmastersworld.wiki.gg/wiki/Guide:BlackShoutmonX7).
 	- In order to make CosmicSusanoomon (Shin), you need one Spirit of the Lunar and one Spirit of the Solar.
-		- To make a Spirit of the Solar, you must sacrifice one of the H and B versions of the Spirits of Light, Thunder, Darkness, Water, and Steel at the Susanoomon (Shin) NPC at DATS>.
-		- To make a Spirit of the Lunar, you must sacrifice one of the H and B versions of the Spirits of Fire, Wind, Ice, Wood, and Earth at the Susanoomon (Shin) NPC at DATS>.
-
-</details>
-
-**The next two tasks can be done interchangeably (and, at times, it is recommended to do so.)**
-
-### Obtain the second tier Digivice Upgrade
-
-<details>
-<summary>For SK DPS</summary>
-
-- As a SK DPS, you gain the most damage from the Royal Digivice, True Digivice, and True Digivice (Advanced).
-	- While you can acquire the Royal Digivice as a quest reward from the Novice Challenge (MetalGreymon's Challenge - 1), it is also obtainable from the boxes given by the Royal Knights' Dominion daily quest from the Magnamon NPC in Versandi Terminal.
-		- It does not have a high drop rate from the boxes so you shouldn't rely on them too heavy.
-- True Digivice (guide here) requires that you farm Tokyo-Odaiba raid bosses for the materials they can drop.
-    - Instead of farming the raid bosses, you can also do the Rainbow Bridge dungeon for the Powder of Evolution item. With 2 Powder of Evolution, you can craft 1 of any raid boss material.
-    - At a certain level of craft, you will need to start doing the Tokyo-Odaiba dungeons, Tokyo Tower Observatory, Fuji TV Rooftop, and Venomous Vortex.
-    	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + Royal Digivice [SK]/D-Ark v1 [AA/Tank]
-     	- **Recommended Clothing:** Any
-        - All 3 dungeons have farmable passes. These passes are craftable at the Hikari NPC on the Odaiba map of the Tokyo-Odaiba Area.
-            - You can craft Tokyo-Tower Observatory passes by using 100 Observatory Energy, which can be farmed at any mob on the Valley of Light map in the Tokyo-Odaiba Area.
-            - You can craft Fuji TV Rooftop passes by using 100 Rooftop Energy, which can be farmed at any mob on the Shibuya map in the Tokyo-Odaiba Area.
-            - You can craft Venomous Vortex passes by using 100 Venomous Energy, which can be farmed at any mob on the Tokyo Tower or Minato City maps in the Tokyo-Odaiba Area.
-        - The dungeons accessed by Pixiemon are required for True Digivice (Advanced), not the base True Digivice.
-    - As mentioned prior, it is pretty much a requirement to have Susanoomon Shin (or any other VA SSS+) and/or Omegamon Alter-B (or any other Vi SSS+) to complete the dungeons due to their poor balancing.
-    - If you do not want to do all of them individually, you can take the Tokyo Tokens gained from clearing the dungeons to the Hikari NPC in Odaiba. You can craft the dungeon materials at a cost of 10 tokens.
-- Once you've acquired the True Digivice and have all 3 SSS+, you can start doing the True Digivice (Advanced) grind.
-    - You will need to run the Path of Bravery, Path of Friendship and Venomous Vortex (Hard) dungeons. These dungeons all require a tank.
-    	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + True Digivice [SK]/D-Ark v5 [AA/Tank]
-     	- **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
-        - The dungeons drop 2 of the required materials per clear, 1 non-Character Bound and 1 Character Bound.
-            - If you choose to keep the 1 non-Character Bound, you only need to do 50 of each dungeon, or 150 dungeon runs total.
-            - If you choose to sell the non-Character Bound material, you will need to run each dungeon 100 times, or 300 dungeon runs total.
-            - Expert Challenge - 3 of the Novice Challenge gives 20 of the Crest of Courage items and 20 Crest of Friendship items.
-            - Expert Challenge - 4 of the Novice Challenge gives 20 of the Complete Virus items.
-        - The only prerequisite material is an open True Digivice.
-            - If you are running only free SSS+, you will need at least 3 True Digivice (Advanced).
-    - All 3 dungeons have farmable passes. These passes are craftable at the Hikari NPC on the Odaiba map of the Tokyo-Odaiba Area.
-        - You can craft Path of Bravery passes by using 100 Bravery Energy, which can be farmed at any mob on the Odaiba map in the Tokyo-Odaiba Area.
-        - You can craft Path of Friendship passes by using 100 Friendship Energy, which can be farmed at any mob on the Odaiba map in the Tokyo-Odaiba Area.
-        - You can craft Venomous Vortex [Hard] passes by using 100 Vortex Energy, which can be farmed at any mob on the Big Sight map in the Tokyo-Odaiba Area.
-
-</details> 
-		
-<details>
-<summary>For AA DPS/Tanks</summary>
-
-- Both Tanks and AA DPS benefit the most from the D-Ark and it's upgrades, the Rage/Digizoid D-Ark and Uncontrollable Rage/ChromeDigizoid D-Ark. D-Ark Guide here
-   - While Tanks don't benefit as much from D-Ark v1 to v5 compared to AA DPS, it is still a necessary step to obtain the Digizoid D-Ark and ChromeDigizoid D-Ark
-- For D-Ark Lv1 to Lv5, you must complete the Vajramon Hard/SSS and Vikaralamon Hard/SSS dungeons. Each successful clear gives you the required materials for the D-Ark upgrades. Due to the balancing on these dungeons, you do not need an SSS+. However, for the DPS classes, many parties expect a SSS+ for the Hard versions.
-    - Each Hard dungeon clear gives you 30 Character Bound materials and 5 non-Character Bound materials. SSS gives 40 Character Bound materials.
-    	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + Royal Digivice [SK]/D-Ark v1 [AA/Tank]
-     	- **Recommended Clothing:** Any	
-        - (Hard) If you choose to sell the non-Character Bound materials, you need 72 runs of each dungeon, or 144 total runs.
-        - (Hard) If you choose to keep and convert the non-Character Bound materials, you only need 62 runs of each dungeon, or 124 total runs.
-        - (SSS) If you do the SSS version of the dungeons, you only need 54 runs of each dungeon, or 108 total runs.
-        - Advanced Challenge - 1 of the Novice Challenge gives 100 of each dungeon material.
-        - You can craft both Vikaralamon Hard passes and Vajramon Hard passes at their respective PawnChessmon B NPCs.
-            - At the PawnChessmon B NPC in Shinjuku East Area (Night), you can trade 100 Stadium Essence [Vajramon] for 1 Vajramon Hard pass. Stadium Essence [Vajramon] is farmable at any mob in both Shinjuku Western Area maps.
-            - At the PawnChessmon B NPC in Shinjuku Western Area (Day), you can trade 100 Stadium Essence [Vikaralamon] for 1 Vikaralamon Hard pass. Stadium Essence [Vikaralamon] is farmabale at any mob in both Shinjuku East Area maps.
-- After getting BloomLordmon and acquiring the D-Ark Lv5, you'll be well equipped enough to take on the Digital Area dungeons for the Rage and Uncontrollable Rage D-Ark upgrades. These dungeons all require a tank.
-    - Just like Vajra Hard and Vika Hard, they drop Character Bound and non-Character Bound materials per successful clear.
-    - Burning Battle Field
-    	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + Royal Digivice [SK]/D-Ark v5 [AA/Tank]
-     	- **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
-        - AA DPS - You will need 300 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 60 total times. If you choose to sell the non-CB items, you will need 100 total dungeon runs.
-        - Tank - You will need 150 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 30 total times. If you choose to sell the non-CB items, you will need 50 total dungeon runs.
-    - Chaotic Battle Field
-    	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + Royal Digivice [SK]/D-Ark v5 [AA/Tank]
-     	- **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
-        - AA DPS - You will need 150 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 30 total times. If you choose to sell the non-CB items, you will need 50 total dungeon runs.
-        - Tank - You will need 300 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 60 total times. If you choose to sell the non-CB items, you will need 100 total dungeon runs.
-    - Final Battle
-    	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + Royal Digivice [SK]/Rage D-Ark [AA]/Digizoid D-Ark [Tank]
-     	- **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
-        - You will need 200 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 40 total times. If you choose to sell the non-CB items, you will need 67 total dungeon runs.
-    - Advanced Challenge - 2 of the Novice Challenge gives 20 of each dungeon material.
-    - You can craft passes for the 3 Digital Area dungeons at the Guilmon NPC at Zhuqiaomon's Restina Area in the Digital Area.
-        - You can trade 100 Chaotic Essence for 1 Chaotic Battlefield pass. Chaotic Essence is dropped by any mob on the Wasteland Area, Wasteland Area (Night), and Cloud Area maps in the Digital Area.
-        - You can trade 100 Burning Essence for 1 Burning Battlefield pass. Burning Essence is dropped by any mob on the Forest Area, Ocean Area and Four Holy Beast Area maps in the Digital Area.
-        - You can trade 100 Final Essence for 1 Final Battle pass. Final Essence drops from any mob on the Collapsed Four Holy Beast Area, Zhuqiaomon's Resting Area, and Four Holy Beast Area (D-Reaper) maps in the Digital Area.
+ 		- Spirit of the Solar can be acquired by sacrificing Solar-MagnaGarurumon at the Susanoomon (Shin) NPC in DATS. In order to acquire Solar-MagnaGarurumon, you must sacrifice one of the H and B versions of the Spirits of Light, Thunder, Darkness, Water, and Steel at the Susanoomon (Shin) NPC at DATS>.
+  		- Spirit of the Lunar can be acquired by sacrificing Lunar-KaiserGreymon at the Susanoomon (Shin) NPC in DATS. In order to acquire Lunar-KaiserGreymon, you must sacrifice one of the H and B versions of the Spirits of Fire, Wind, Ice, Wood, and Earth at the Susanoomon (Shin) NPC at DATS>.
 
 </details>
 
@@ -632,8 +592,10 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 <summary>For SK DPS</summary>
 
 - The majority of your clothing (5 out of 6 pieces) comes from the GreenZone NightSky guild dungeon. It has an 8 player capacity, but can only be done with guild members.
-  	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + Royal Digivice [SK]/D-Ark v1 [AA/Tank]
-  	- **Recommended Clothing:** Any
+	- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
+ 	- **Recommended Digivice:** Royal Digivice [SK]/D-Ark v1 [AA/Tank]
+	- **Recommended Clothes:** Any
+ 	- **Recommended Deck:** Forsaken Strain [SK]/Our Final Evolution [AA]/'Seafood Stew/Iron Thronefall' [TA] 
     - You will need to acquire the Starmon's Ornament, Shoutmon's Cape, Dorulumon's Pants, Balistamon's Gloves and Sparrowmon's Shoes. These are non-CB and can be bought from other players as well.
         - You can also "pity" for them via the Crusade Mode quests from the Pickmon NPC in D-Terminal. Each clothing item costs 30 Gold Digizoid Data for a grand total of 150 Gold Digizoid Data.
     - When these 5 pieces are worn together, you gain a set bonus:
@@ -653,7 +615,7 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 <details>
 <summary>For AA DPS</summary>
 
-- The majority of your clothing (4 out of 6 pieces) comes from the Vajramon Hard/SSS dungeon.
+- The majority of your clothing (4 out of 6 pieces) comes from the Vajramon Hard/SSS/Solo dungeon.
     - You will need the Warrior Ornament, Warrior Top, Warrior Pants and Warrior Gloves, specifically the Shining Variant.
         - If you complete the SSS Dungeon, there is a chance to drop a Character Bound variant. These clothes do not mix with the non-Character Bound variant bought from other players/dropped from Vajramon Hard.
     - When these 4 Shining pieces are worn together, you gain a set bonus:
@@ -695,11 +657,83 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 	
 </details>
 
-## Late-Mid Game
+As a general notice, by this point in your progression, you should start working on (if you haven't already), your Goggles. As a reminder, these are 100% fully farmed from the Digital Area maps (with exception to the Complete Tamer's Goggles upgrade, which require the Digital Area dungeons). Goggles can be crafted at the Takato NPC in DATS.
+	- Recommended Goggles:
+		- SK DPS - SK/SK
+		- AA DPS - AT/AT
+		- Tank - DE/DE
+		- While it is tempting to upgrade any Goggles you get just to fill the spot, it is **Highly Recommended** you do not do so. It is an expensive (and, if farmed, time consuming) endeavor to upgrade your Goggles. You will either cripple your damage potential or lose out on defensive potential, making you weaker than expected on later content.
+	- Upgrade Materials can be dropped from their respective named maps or from their respective raid boss on the Forest Area (Tour) map accessible from the Dukemon NPC at the Forest Area map.
+		- Wasteland Essence - Wasteland Area/Wasteland Area (Night)
+		- Cloud Essence - Cloud Area
+		- Forest Essence - Forest Area
+		- Ocean Essence - Ocean Area
+		- Beast Essence - Four Holy Beast Area/Collapsed Four Holy Beast Area/Zhuqiaomon's Resting Area/Four Holy Beast Area (D-Reaper)
+		
+
+### Obtain the second tier Digivice Upgrade
+
+<details>
+<summary>For SK DPS</summary>
+
+- Once you've acquired the True Digivice and have all 3 SSS+, you can start doing the True Digivice (Advanced) grind.
+    - You will need to run the Path of Bravery, Path of Friendship and Venomous Vortex (Hard) dungeons. These dungeons all require a tank.
+		- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
+ 		- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
+		- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+ 		- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
+        - The dungeons drop 2 of the required materials per clear, 1 non-Character Bound and 1 Character Bound.
+            - If you choose to keep the 1 non-Character Bound, you only need to do 50 of each dungeon, or 150 dungeon runs total.
+            - If you choose to sell the non-Character Bound material, you will need to run each dungeon 100 times, or 300 dungeon runs total.
+            - Expert Challenge - 3 of the Novice Challenge gives 20 of the Crest of Courage items and 20 Crest of Friendship items.
+            - Expert Challenge - 4 of the Novice Challenge gives 20 of the Complete Virus items.
+        - The only prerequisite material is an open True Digivice.
+            - If you are running only free SSS+, you will need at least 3 True Digivice (Advanced).
+    - All 3 dungeons have farmable passes. These passes are craftable at the Hikari NPC on the Odaiba map of the Tokyo-Odaiba Area.
+        - You can craft Path of Bravery passes by using 100 Bravery Energy, which can be farmed at any mob on the Odaiba map in the Tokyo-Odaiba Area.
+        - You can craft Path of Friendship passes by using 100 Friendship Energy, which can be farmed at any mob on the Odaiba map in the Tokyo-Odaiba Area.
+        - You can craft Venomous Vortex [Hard] passes by using 100 Vortex Energy, which can be farmed at any mob on the Big Sight map in the Tokyo-Odaiba Area.
+
+</details> 
+		
+<details>
+<summary>For AA DPS/Tanks</summary>
+
+- After acquiring the D-Ark Lv5 [AA DPS: And acquiring your VA SSS+], you'll be well equipped enough to take on the Digital Area dungeons for the Rage and Uncontrollable Rage D-Ark upgrades. These dungeons all require a tank.
+    - Just like Vajra Hard and Vika Hard, they drop Character Bound and non-Character Bound materials per successful clear.
+    - Burning Battle Field
+		- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
+ 		- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
+		- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+ 		- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
+        - AA DPS - You will need 300 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 60 total times. If you choose to sell the non-CB items, you will need 100 total dungeon runs.
+        - Tank - You will need 150 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 30 total times. If you choose to sell the non-CB items, you will need 50 total dungeon runs.
+    - Chaotic Battle Field
+		- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
+ 		- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
+		- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+ 		- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
+        - AA DPS - You will need 150 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 30 total times. If you choose to sell the non-CB items, you will need 50 total dungeon runs.
+        - Tank - You will need 300 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 60 total times. If you choose to sell the non-CB items, you will need 100 total dungeon runs.
+    - Final Battle
+		- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
+ 		- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
+		- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+ 		- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
+        - You will need 200 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 40 total times. If you choose to sell the non-CB items, you will need 67 total dungeon runs.
+    - Advanced Challenge - 2 of the Novice Challenge gives 20 of each dungeon material.
+    - You can craft passes for the 3 Digital Area dungeons at the Guilmon NPC at Zhuqiaomon's Restina Area in the Digital Area.
+        - You can trade 100 Chaotic Essence for 1 Chaotic Battlefield pass. Chaotic Essence is dropped by any mob on the Wasteland Area, Wasteland Area (Night), and Cloud Area maps in the Digital Area.
+        - You can trade 100 Burning Essence for 1 Burning Battlefield pass. Burning Essence is dropped by any mob on the Forest Area, Ocean Area and Four Holy Beast Area maps in the Digital Area.
+        - You can trade 100 Final Essence for 1 Final Battle pass. Final Essence drops from any mob on the Collapsed Four Holy Beast Area, Zhuqiaomon's Resting Area, and Four Holy Beast Area (D-Reaper) maps in the Digital Area.
+
+</details>
 
 - Run [Digimon Arena Extreme Mode](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena#Round_Rewards_Colosseum_Hero_Mode/Extreme_Mode) (Colo EX)
-  	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + True Digivice [SK]/D-Ark v5 [AA/Tank]
-  	- **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+	- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet + Tamer's Goggles
+	- **Recommended Digivice:** True Digivice [SK]/D-Ark v5 [AA/Tank]
+	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Any [Tank]
+	- **Recommended Deck:** Ouroboros [SK]/Judicium Noctis [AA]/'Brick Wall/Aegis of the Divide' [TA]
 	- Colo EX is the hardest difficulty of Colo currently out and gives the most points as well. Talk to Examon X to start the EX difficulty.
 	- EX is only 6 rounds, which are Rounds 10 to 15 of Colo Hero but more difficult. A tank is absolutely a requirement. Unlike Hero, each boss has a field effect active during their battle, with the field effects of Examon X and Ordinemon being stronger than in Hero.
     	- Millenniummon Field Effect: Dark Dimension - 5% Increase of Damage Taken
@@ -713,11 +747,13 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
         	- Sometimes the Ebemon fail to spawn. If that occurs, continue attacking Millenniummon.
 
 - Royal Base [[Hard]](https://digitalmastersworld.wiki.gg/wiki/Royal_Base_Hard) (RBH)
-  	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : X-Knight Bracelet + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Royal : X-Knight Bracelet/Underworld Bracelet
+	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
+	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Deck:** Celestfracture [SK]/Praelium Divinus [AA]/'Brick Wall/Aegis of the Divide' [TA]
 	- You can craft RBH passes by using 100 Warp Energy [Hard] at the Magnamon X NPC at Versandi Terminal. Warp Energy [Hard] can be farmed at any mob on the Versandi Terminal map.
-	- This dungeon drops all the required materials for the Royal : Yggdrasil Bracelet. For SK, this upgrade is very miniscule however, for TK and AA, it is a pretty noticeable increase. The Ultimate Upgrade for the Yggdrasil Bracelet is also a requirement for the Clown Bracelet of the Spiral Gear set.
-	- Each clear rewards 1 Yggdrasil Core.
+	- This dungeon drops all the required materials for the Ultimate : Yggdrasil Bracelet [Journey]. For SK, this upgrade is very miniscule however, for TK and AA, it is a pretty noticeable increase.
+	- Each clear rewards 1 Yggdrasil Core. There is also a chance to receive a Yggdrasil's Records item upon killing Dexmon.
 <details>
 <summary>Room Mechanics</summary>
 
@@ -775,54 +811,64 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 
 </details>
 
-Before you officially move onto endgame content, you should ensure that you are fully prepared:
-- Accessory-wise, you should have perfect Fanglongmon Ancient Gear Lv.10/Fanglongmon Ultimate Ancient Gear Lv.10 with a perfect Royal : X-Knight Bracelet (For SK) or Royal/Ultimate : Yggdrasil Bracelet (For AA/TA). You should also have a fully maxed out pair of Goggles (AT/AT for AA, SK/SK for SK, DE/DE for TA).
-- You should have acquired proper clothing as well, see above.
-- Decks:
-	- AA: Judicium Noctis
- 	- SK: Celestfracture
-  	- Tank: Defensive Order/Aegis Vortex
+## Late-Mid Game
 
+As you are officially in Spiral content, you should ensure (if you haven't already) that you've started on your Spiral KeyRing for your class, which is craftable at the Tai NPC in DATS. Each Spiral Dungeon (with exception to Void Space [Hard]) provides you the materials to further upgrade your Spiral KeyRing, culminating at KeyRing Lv.10.
+
+- [Marine Dragon Domain](https://digitalmastersworld.wiki.gg/wiki/Marine_Dragon_Domain) (MDG)
+	- **Recommended Gear:** Fanglongmon's Ultimate Ancient Gear [Journey] + Ultimate : Yggdrasil Bracelet [Journey] + Tamer's Goggles + KeyRing Lv.1
+	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
+	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Deck:** Celestfracture [SK]/Praelium Divinus [AA]/'Brick Wall/Aegis of the Divide' [TA]
+	- The first of the 6 Spiral Mountain dungeons.
+	- You can craft passes for MDG by using 200 Marine Essence at the WarGreymon NPC at the Forest of the Beginning. Marine Essence is dropped by any mob on the Forest of the Beginning map of Spiral Mountain.
+- [Front Yard of Marionette Mansion](https://digitalmastersworld.wiki.gg/wiki/Front_Yard_of_Marionette_Mansion) (PDG)
+	- **Recommended Gear:** Ring of the Marine Dragon + Fanglongmon's Ultimate Ancient Gear [Journey] + Ultimate : Yggdrasil Bracelet [Journey] + Complete Tamer's Goggles + KeyRing Lv.3
+	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
+	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Deck:** Latent Power [SK]/'Corrupted Power/Corrupted Power V2/Knights of the Crimson Path' [AA]/'Defensive Order/Aegis Vortex' [TA]
+	- The second of the 6 Spiral Mountain dungeons.
+	- You can craft passes for PDG by using 200 Floras Essence at the Hikari NPC at the Forest of the Marionette. Floras Essence is dropped by any mob on the Forest of the Marionette map of Spiral Mountain.
+- [Back of the Empire](https://digitalmastersworld.wiki.gg/wiki/Back_of_the_Empire) (Mugen DG)
+	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Fanglongmon's Ultimate Ancient Earring [Journey] + Ultimate : Yggdrasil Bracelet [Journey] + Complete Tamer's Goggles + KeyRing Lv.5
+	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
+	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Deck:** Latent Power [SK]/'Corrupted Power/Corrupted Power V2/Knights of the Crimson Path' [AA]/'The Sovereign Bulwark' [TA]
+	- The third of the 6 Spiral Mountain dungeons.
+	- You can craft passes for Mugen DG by using 200 Metal Essence at the Andromon NPC at the Underground City. Metal Essence is dropped by any mob on the Metal Empire and Underground City maps of Spiral Mountain.
+- [Stage of Clown](https://digitalmastersworld.wiki.gg/wiki/Stage_of_Clown) (Pied DG)
+	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Ultimate : Yggdrasil Bracelet [Journey] + Complete Tamer's Goggles + KeyRing Lv.7
+	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
+	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Deck:** 'Royal Knights X/Demon Lord X' [SK]/'Power of Darkness/Strong Bonds/Order of the Crimson Nexus' [AA]/'TSB: Abyss/Dragon Scale' [TA]
+    - The fourth of the 6 Spiral Mountain dungeons.
+    - You can craft passes for Pied DG by using 200 Nightmare Essence at the Angewomon NPC at the Top of a Nightmare map. Nightmare Essence is dropped by any mob on the Top of a Nightmare map of Spiral Mountain.
+ - [Odaiba Park](https://digitalmastersworld.wiki.gg/wiki/Odaiba_Park)
+	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.7
+	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
+	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Deck:** 'Royal Knights X/Demon Lord X' [SK]/'Power of Darkness/Strong Bonds/Order of the Crimson Nexus' [AA]/'TSB: Abyss/Dragon Scale' [TA]
+    - Odaiba Park is the unlock dungeon for Omegamon Merciful Mode.
 
 # End Game
 
-- [Marine Dragon Domain](https://digitalmastersworld.wiki.gg/wiki/Marine_Dragon_Domain) (MDG)
-  	- **Recommended Gear**: Fanglongmon's Ancient Gear Lv.10 + Royal : Yggdrasil Bracelet + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
-	- The first of the 7 Spiral Mountain dungeons.
-	- You can craft passes for MDG by using 200 Marine Essence at the WarGreymon NPC at the Forest of the Beginning. Marine Essence is dropped by any mob on the Forest of the Beginning map of Spiral Mountain.
-- [Front Yard of Marionette Mansion](https://digitalmastersworld.wiki.gg/wiki/Front_Yard_of_Marionette_Mansion) (PDG)
-  	- **Recommended Gear**: Ring of the Marine Dragon + Fanglongmon's Ancient Gear Lv.10 + Royal : Yggdrasil Bracelet + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
-	- The second of the 7 Spiral Mountain dungeons.
-	- You can craft passes for PDG by using 200 Floras Essence at the Hikari NPC at the Forest of the Marionette. Floras Essence is dropped by any mob on the Forest of the Marionette map of Spiral Mountain.
-- [Back of the Empire](https://digitalmastersworld.wiki.gg/wiki/Back_of_the_Empire) (Mugen DG)
-  	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Fanglongmon's Ancient Earring Lv.10 + Royal : Yggdrasil Bracelet + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
-	- The third of the 7 Spiral Mountain dungeons.
-	- You can craft passes for Mugen DG by using 200 Metal Essence at the Andromon NPC at the Underground City. Metal Essence is dropped by any mob on the Metal Empire and Underground City maps of Spiral Mountain.
-- [Stage of Clown](https://digitalmastersworld.wiki.gg/wiki/Stage_of_Clown) (Pied DG)
-  	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Royal : Yggdrasil Bracelet + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
-    - The fourth of the 7 Spiral Mountain dungeons.
-    - You can craft passes for Pied DG by using 200 Nightmare Essence at the Angewomon NPC at the Top of a Nightmare map. Nightmare Essence is dropped by any mob on the Top of a Nightmare map of Spiral Mountain.
- - [Odaiba Park](https://digitalmastersworld.wiki.gg/wiki/Odaiba_Park)
-  	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
-    - Odaiba Park is the unlock dungeon for Omegamon Merciful Mode.
-- [Four Pillars of Ruin](https://digitalmastersworld.wiki.gg/Four_Pillars_of_Ruin)
-  	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
-    - The fifth and sixth of the 7 Spiral Mountain dungeons.
-    - It requires no passes.
 - [Void Space](https://digitalmastersworld.wiki.gg/Void_Space)
-  	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
-    - The seventh of the 7 Spiral Mountain dungeons.
+	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.9
+	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
+	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Deck:** 'Royal Knights X/Demon Lord X' [SK]/'Power of Darkness/Strong Bonds/Order of the Crimson Nexus' [AA]/'TSB: Abyss/Dragon Scale' [TA]
+    - The fifth of the 6 Spiral Mountain dungeons.
     - It requires no passes. 
 - [Fanglongmon Dungeon (Hard)](https://digitalmastersworld.wiki.gg/Fanglongmon_Dungeon_(Hard)) (FDGH)
-  	- **Recommended Gear**: Ring of the Marine Dragon + Necklace of the Wooden Puppet + Corrupted Earring of the Metallic Beast + Bracelet of the Cruel Clown + Void Digivice [SK/AA/Tank]
-    - **Recommended Clothing:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Corrupted Earring of the Metallic Beast + Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.10
+	- **Recommended Digivice:** Void Digivice [SK/AA/Tank]
+	- **Recommended Clothes:** Vajramon's Warrior Clothing [AA DPS]/NightSky Clothing Set [SK DPS]/Digital Hazard Clothing Set [Tank]
+	- **Recommended Deck:** Legendary Core [SK]/Order of the Eclipsed Genesis [AA]/TSB: Crown [TA]
+ - [Void Space \[Hard\]](https://digitalmastersworld.wiki.gg/Void_Space)
+	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Corrupted Earring of the Metallic Beast + Corrupted Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.10
+	- **Recommended Digivice:** Void Digivice
+	- **Recommended Clothes:** Fanglongmon's Shining Clothes Set [Class Upgrade]
+	- **Recommended Deck:** Legendary Core [SK]/Order of the Eclipsed Genesis [AA]/TSB: Royal Crown [TA]
 
 # Deck System Guideline
 
@@ -863,8 +909,8 @@ Before you officially move onto endgame content, you should ensure that you are 
 8. Vaccine Fighters
 9. Judicium Noctis
 10. **\<End Game Requirement>** Praelium Divinus
-11. Corrupted Power/Knights of the Crimson Path
-	- While the two decks are the same, Knights of the Crimson Path is a deck that only contains AA Digimon and has no "wasted" digimon.
+11. Corrupted Power/Corrupted Power V2/Knights of the Crimson Path
+	- While the three decks are the same, Knights of the Crimson Path is a deck that only contains AA Digimon and has no "wasted" digimon.
 12. Power of Darkness/Strong Bonds/Order of the Crimson Nexus
 	- The three decks are identical. Whichever is easier to obtain, aim for.
 	- Take note, Order of the Crimson Nexus is a deck that only contains AA Digimon, however does require 3 Cash Shop-exclusive SSS+ and all 3 AA F2P SSS+. On the other hand, both Power of Darkness and Strong Bonds only require 2 Cash Shop SSS+ and one F2P SSS+ (As well as, Strong Bond's SSS+ requirements are all AA Digimon)
