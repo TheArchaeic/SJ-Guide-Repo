@@ -376,7 +376,7 @@ Most bosses in the game follow a similar mechanical design, This is *not* 100% a
 
 ## Content Progression
 
-### Early Early Game
+### Early-Early Game
 
 Now that you're ready to progress further, open your Underworld Gear. You've now got 30 Days to acquire more permanent and worthwhile gear. Here are the best ways to make use of it:
 - [DPS Classes] (Optional but Recommended) Farm the Gizumon Lab Dungeon at Digimon Maze Entrance to enhance your second starter. For SK, this'll land you a usable Vaccine SSS.
@@ -461,7 +461,7 @@ Acquire your Digivice:
 </details>
 
 
-### Late Early Game
+### Late-Early Game
 
 - Run [Digimon Arena Hero Mode](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena#Round_Rewards_Colosseum_Hero_Mode/Extreme_Mode) (Colo Hero)
 	- **Recommended Gear:** Radiant Four Holy Beast Lv.5 Gear + Royal : X-Knight Bracelet/Underworld Gear Set
