@@ -856,7 +856,7 @@ As you are officially in Spiral content, you should ensure (if you haven't alrea
 	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Earring of the Metallic Beast + Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.9
 	- **Recommended Digivice:** Advanced True Digivice [SK]/Uncontrollable Rage D-Ark [AA]/ChromeDigizoid D-Ark [Tank]
 	- **Recommended Clothes:** NightSky Clothing Set [SK]/Vajramon's Warrior Clothing [AA]/Digital Hazard Clothing Set [Tank]
-	- **Recommended Deck:** 'Royal Knights X/Demon Lord X' [SK]/'Power of Darkness/Strong Bonds/Order of the Crimson Nexus' [AA]/'TSB: Abyss/Dragon Scale' [TA]
+	- **Recommended Deck:** 'Royal Knights X/Demon Lord X' [SK]/'Power of Darkness/Strong Bonds/Order of the Crimson Nexus' [AA]/'TSB: Crown' [TA]
     - The fifth of the 6 Spiral Mountain dungeons.
     - It requires no passes. 
 - [Fanglongmon Dungeon (Hard)](https://digitalmastersworld.wiki.gg/Fanglongmon_Dungeon_(Hard)) (FDGH)
@@ -868,7 +868,7 @@ As you are officially in Spiral content, you should ensure (if you haven't alrea
 	- **Recommended Gear:** Ring of the Marine Dragon + Necklace of the Wooden Puppet + Corrupted Earring of the Metallic Beast + Corrupted Bracelet of the Cruel Clown + Complete Tamer's Goggles + KeyRing Lv.10
 	- **Recommended Digivice:** Void Digivice
 	- **Recommended Clothes:** Fanglongmon's Shining Clothes Set [Class Upgrade]
-	- **Recommended Deck:** Legendary Core [SK]/Order of the Eclipsed Genesis [AA]/TSB: Royal Crown [TA]
+	- **Recommended Deck:** Legendary Core [SK]/Order of the Eclipsed Genesis [AA]/TSB: Eternal Domninion [TA]
 
 # Deck System Guideline
 
