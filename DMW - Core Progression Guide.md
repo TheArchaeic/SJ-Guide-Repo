@@ -246,8 +246,9 @@ Before we establish what your progression should look like, there's are four unm
 - You can find the first two tiers of Digitary Power Stones and the normal Renewal Increase Stone at the [QueenChessmon NPC's shop at DATS](https://digitalmastersworld.wiki.gg/wiki/QueenChessmon_(NPC)). Amazing Renewal Increase Stones and Amazing Digitary Power Stones are drops in some dungeons as well the Colosseum Exchange
 - Some accessories, such as the Spiral KeyRing and D-Arks, have set stat options, numbers and, potentially even Digitary Power. Generally, these accessories will have 0 Digiable Renewal Increase Numbers when crafted and/or opened.
 - Each class has a different "perfect" set of options on accessories for maximum damage.
-	- The following are the perfect sets, ordered from most important to least important. These "perfect" option sets *do not* apply for Spiral Mountain gear.
+	- The following are the perfect sets, ordered from most important to least important.
 		- You should not aim for perfect stats unless you intend to hold onto your gear for a substantial amount of time. It is a much better use of your resources to go for "Semi-Perfect" (3 out of 4 options) until you reach Lv.10 Fanglongmon gear/Ultimate Fanglongmon gear. For Bracelet, this should be with the Royal : X-Knight Bracelet, if resources permit.
+  		- As this guide accounts for upgrading the Underworld Gear Set instead of doing the normal gear grind, you will not have to worry about rolling/re-rolling your gear until you've obtained Spiral Gear.	
 	- For SK DPS:
     	<details>
 		<summary>Pre-Spiral Gear</summary>
@@ -526,7 +527,7 @@ Here on out, you have several tasks to progress:
 <summary>For SK DPS</summary>
 
 - **Recommended order: Susanoomon Shin -> Fanglongmon Shin -> Omegamon Alter-B**
-- While it is possible to go for Omegamon Alter-B first, the vast majority of random parties look for SSS+ DPS, rather than SSS DPS. Susanoomon Shin and Fanglongmon Shin are also technically the most accessible as they only require Colo Hero.
+- While it is possible to go for Omegamon Alter-B first, the vast majority of random parties look for SSS+ DPS, rather than SSS DPS. Susanoomon Shin and Fanglongmon Shin are also technically the most accessible as they only require Shopping Mall, which is a solo dungeon.
 - Susanoomon Shin guide [here](https://digitalmastersworld.wiki.gg/wiki/Advanced_Spirit_System). Keep in mind, you will also need base [Susanoomon](https://digitalmastersworld.wiki.gg/wiki/Guide:Susanoomon) as well.
 	- Susanoomon Shin requires 42 Cosmic Souls, which drop from the Susanoomon (Shin) enemy summoned from Supreme Evolution Summon V1 Cards.
 		- Shopping Mall dungeon gives 6, requiring a total of 7 successful runs.
