@@ -201,6 +201,12 @@ At this point in time you now have 2 options:
 
 ## Pre-Early Game: Money-Making $$$
 
+### Method A: Farming + Player Market
+
+### Method B: Tour
+
+### Method C: Crown/Cash Shop Items 
+
 # Early Game
 
 Congratulations, you've officially moved on from preparing to do content to actually *doing* content.
